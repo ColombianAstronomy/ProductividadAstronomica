@@ -1,0 +1,31 @@
+Apellido,Primer Paper,	Citaciones,	h-index, Universidad, Area
+Rodriguez,		2005,	948,		12,	UIS, Teoria
+Ferrin	,		1974,	528,		12,	UdeA, Obs.
+Valenzuela,		2008,	282,		8,	Valle, Teoria
+Nunez	,		1984,	187,		8,	UIS, Teoria
+Forero-Romero,		2007,	184,		8,	Andes, Computo
+Larranaga,		2007,	96,		5,	OAN, Teoria
+Zuluaga	,		2001,	61,		5,	UdeA, Computo
+Sabogal	,		2005,	67,		5,	Andes, Obs.
+Munoz-Cuartas,		2011,	99,		4,	UdeA, Computo
+Tejeiro	,		1998,	52,		4,	OAN, Teoria
+Uribe	,		1994,	35,		4,	OAN, Obs.
+Luna-Cardozo, 		2007,	41,		3,	UdeA, Computo
+Garcia-Varela,		2008,	41,		3,	Andes, Obs.
+Pinzon	,		2004,	71,		3,	OAN, Obs.
+Castaneda-Colorado,	2004,	27,		3,	OAN, Teoria
+Casas-Miranda	,	2002,	80,		2,	UNal, Computo
+Higuera-Garzon	,	2001,	22,		2,	OAN, Obs.
+Portilla	,	2004,	8,		2,	OAN, Obs.
+Calvo-Mozo	,	2001,	8,		1,	OAN, Obs.
+Chaparro-Molano,	2012,	5,		1,	USergioA, Obs.
+-,-,-,-,-
+*Vargas-Dominguez,	2007,	245,		8, USA, Obs.
+*Balaguera-Antolinez,	2006,	126,		7, Italia, Teoria.
+*Munoz-Jaramillo,	2009,	131,		5, USA, Computo
+*Vera-Ciro, 		2011,	122,		5, USA, Computo
+*Silva-Villa	,	2008,	129,		4, Canada, Obs.
+*Peña-Ramirez, 		2011,	62,		4, Chile, Obs.
+*Martinez-Galarza,	2008,	42,		3, USA, Obs.
+
+
