@@ -1,10 +1,10 @@
 Apellido,Primer Paper,	Citaciones,	h-index, Universidad, Area
 Rodriguez,		2005,	948,		12,	UIS, Teoria
-Ferrin	,		1974,	528,		12,	UdeA, Obs.
-Granda, 		1996,	299,		9,	UniValle, Teoria
+Ferrin	,		1974,	539,		12,	UdeA, Obs.
+Granda, 		1996,	394,		10,	UniValle, Teoria
+Forero-Romero,		2007,	204,		9,	Andes, Computo
 Valenzuela-Toledo,	2008,	282,		8,	UniValle, Teoria
 Nunez	,		1984,	187,		8,	UIS, Teoria
-Forero-Romero,		2007,	184,		8,	Andes, Computo
 Larranaga,		2007,	96,		5,	OAN, Teoria
 Zuluaga	,		2001,	61,		5,	UdeA, Computo
 Sabogal	,		2005,	67,		5,	Andes, Obs.
@@ -24,14 +24,15 @@ Calvo-Mozo	,	2001,	8,		1,	OAN, Obs.
 Chaparro-Molano,	2012,	5,		1,	USergioA, Computo
 Lorduy-Gomez, 		2012,	4,		1,	EAFIT, Teoria
 *Mosquera-Cuesta,	1998,	357,		13, Brasil, Teoria
-*Vargas-Dominguez,	2007,	245,		8, USA, Obs.
-*Nuñez (Paul),			2008,	186,		7, Francia, Inst.
+*Vargas-Dominguez,	2007,	251,		8, USA, Obs.
+*Nuñez (Paul),		2008,	186,		7, Francia, Inst.
 *Balaguera-Antolinez,	2006,	126,		7, Italia, Teoria.
 *Munoz-Jaramillo,	2009,	131,		5, USA, Computo
 *Vera-Ciro, 		2011,	122,		5, USA, Computo
 *Silva-Villa	,	2008,	129,		4, Canada, Obs.
 *Peña-Ramirez, 		2011,	62,		4, Chile, Obs.
 *Soler, 		2010,	50,		4, Francia, Inst.
+*Copete, 		2007,	209,		3, USA, Obs
 *Martinez-Galarza,	2008,	42,		3, USA, Obs.
 *Bernal, 		2010,	9,		1, Mexico, Computo
 
