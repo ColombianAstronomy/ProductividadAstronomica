@@ -1,47 +1,47 @@
-Apellido,Primer Paper,	Citaciones,	h-index, Universidad, Area
-Rodriguez,		2005,	1696,		13,	UIS, Teoria
-Ferrin	,		1974,	539,		12,	UdeA, Obs.
-Granda, 		1996,	394,		10,	UniValle, Teoria
-Nuñez (Luis),		1984,	209,		10,	UIS, Teoria
-González, 		1999,	257,		9,	UIS, Teoria
-Forero-Romero,		2007,	204,		9,	Andes, Computo
-Valenzuela-Toledo ,	2008,	283,		7,	UniValle, Teoria
-Sanabria-Gomez , 	2000,	142,		5,	UIS, Teoria
-Gomez-Perez,		2005,	122,		5,	Andes, Computo
-Larranaga ,		2007,	96,		5,	OAN, Teoria
-Sabogal	,		2005,	67,		5,	Andes, Obs.
-Zuluaga	,		2001,	61,		5,	UdeA, Computo
-Munoz-Cuartas,		2011,	99,		4,	UdeA, Computo
-Tejeiro	,		1998,	52,		4,	OAN, Teoria
-Gutierrez-Piñeres, 	2008, 	39,		4,  	UBolivar, Teoria
-Uribe	,		1994,	35,		4,	OAN, Obs.
-Luna-Cardozo, 		2007,	41,		3,	UdeA, Computo
-Garcia-Varela,		2008,	41,		3,	Andes, Obs.
-Pinzon	,		2004,	71,		3,	OAN, Obs.
-Garcia-Reyes, 		2004,	27,		3,	UTP, Teoria
-Castaneda-Colorado,	2004,	27,		3,	OAN, Teoria
-Vera-Villamizar,	2001,	24,		3,	UPTC, Obs.
-Casas-Miranda	,	2002,	80,		2,	UNal, Computo
-Higuera-Garzon	,	2001,	22,		2,	OAN, Obs.
-Cuartas		,	2012,	11,		2,	UdeA, Computo
-Portilla	,	2004,	8,		2,	OAN, Obs.
-Calvo-Mozo	,	2001,	8,		1,	OAN, Obs.
-Chaparro-Molano,	2012,	5,		1,	USergioA, Computo
-Lorduy-Gomez, 		2012,	4,		1,	EAFIT, Teoria
-*Mosquera-Cuesta,	1998,	357,		13, Brasil, Teoria
-*Rueda,			2006,	227,		10, Italia, Teoria
-*Martínez-Fiorenzano, 	2003,	207,		9, Italia, Obs
-*Vargas-Dominguez,	2007,	251,		8, USA, Obs.
-*Martinez-Oliveros,	2007,	106,		8, USA, Obs.
-*Nuñez (Paul),		2008,	186,		7, Francia, Inst.
-*Balaguera-Antolinez,	2006,	126,		7, Italia, Teoria
-*Ramos-Caro,		2008,	60,		6, Brasil, Teoria
-*Munoz-Jaramillo,	2009,	131,		5, USA, Computo
-*Vera-Ciro, 		2011,	122,		5, USA, Computo
-*Silva-Villa	,	2008,	129,		4, Canada, Obs.
-*Peña-Ramirez, 		2011,	62,		4, Chile, Obs.
-*Lora-Clavijo, 		2010,	43,		4, Mexico, Teoria
-*Copete, 		2007,	209,		3, USA, Obs
-*Martinez-Galarza,	2008,	42,		3, USA, Obs.
-*Bernal, 		2010,	9,		1, Mexico, Computo
+Apellido,Primer Paper,	Paper Reciente, xCitaciones,	h-index, Universidad, Area
+Rodriguez,		2005,	2013, 1696,		13,	UIS, Teoria
+Ferrin	,		1974,	2013, 539,		12,	UdeA, Obs.
+Granda, 		1996,	2014, 394,		10,	UniValle, Teoria
+Nuñez (Luis),		1984,	2013, 209,		10,	UIS, Teoria
+González (Guillermo), 	1999,	2014, 257,		9,	UIS, Teoria
+Forero-Romero,		2007,	2013, 204,		9,	Andes, Computo
+Valenzuela-Toledo ,	2008,	2013, 283,		7,	UniValle, Teoria
+Sanabria-Gomez J.D. , 	2000,	2014, 142,		5,	UIS, Teoria
+Gomez-Perez (Natalia),	2005,	2011, 122,		5,	Andes, Computo
+Larranaga ,		2007,	2012, 96,		5,	OAN, Teoria
+Sabogal	,		2005,	,67,		5,	Andes, Obs.
+Zuluaga	,		2001,	,61,		5,	UdeA, Computo
+Munoz-Cuartas,		2011,	,99,		4,	UdeA, Computo
+Tejeiro	,		1998,	,52,		4,	OAN, Teoria
+Gutierrez-Piñeres, 	2008, 	,39,		4,  	UBolivar, Teoria
+Uribe	,		1994,	,35,		4,	OAN, Obs.
+Luna-Cardozo, 		2007,	,41,		3,	UdeA, Computo
+Garcia-Varela,		2008,	,41,		3,	Andes, Obs.
+Pinzon	,		2004,	,71,		3,	OAN, Obs.
+Garcia-Reyes, 		2004,	,27,		3,	UTP, Teoria
+Castaneda-Colorado,	2004,	,27,		3,	OAN, Teoria
+Vera-Villamizar,	2001,	,24,		3,	UPTC, Obs.
+Casas-Miranda	,	2002,	,80,		2,	UNal, Computo
+Higuera-Garzon	,	2001,	,22,		2,	OAN, Obs.
+Cuartas		,	2012,	,11,		2,	UdeA, Computo
+Portilla	,	2004,	,8,		2,	OAN, Obs.
+Calvo-Mozo	,	2001,	,8,		1,	OAN, Obs.
+Chaparro-Molano,	2012,	,5,		1,	USergioA, Computo
+Lorduy-Gomez, 		2012,	,4,		1,	EAFIT, Teoria
+*Mosquera-Cuesta,	1998,	,357,		13, Brasil, Teoria
+*Rueda,			2006,	,227,		10, Italia, Teoria
+*Martínez-Fiorenzano, 	2003,	,207,		9, Italia, Obs
+*Vargas-Dominguez,	2007,	,251,		8, USA, Obs.
+*Martinez-Oliveros,	2007,	,106,		8, USA, Obs.
+*Nuñez (Paul),		2008,	,186,		7, Francia, Inst.
+*Balaguera-Antolinez,	2006,	,126,		7, Italia, Teoria
+*Ramos-Caro,		2008,	,60,		6, Brasil, Teoria
+*Munoz-Jaramillo,	2009,	,131,		5, USA, Computo
+*Vera-Ciro, 		2011,	,122,		5, USA, Computo
+*Silva-Villa	,	2008,	,129,		4, Canada, Obs.
+*Peña-Ramirez, 		2011,	,62,		4, Chile, Obs.
+*Lora-Clavijo, 		2010,	,43,		4, Mexico, Teoria
+*Copete, 		2007,	,209,		3, USA, Obs
+*Martinez-Galarza,	2008,	,42,		3, USA, Obs.
+*Bernal, 		2010,	,9,		1, Mexico, Computo
 
