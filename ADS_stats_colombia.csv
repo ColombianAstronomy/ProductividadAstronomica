@@ -1,18 +1,18 @@
 #Apellido,Primer Paper,	Paper Reciente, Citaciones,	h-index, Universidad, Area 
-Rodriguez (Yeinzon),	2002,	2013, 1039,		13,	UIS/UAN, Teoria
-Granda (L. N.), 	1992,	2014, 494,		13,	UniValle, Teoria
-Ferrin	,		1974,	2014, 553,		12,	UdeA, Obs.
-Vargas-Dominguez,	2007,	2014, 295,		10, 	OAN, Obs
-Nuñez (Luis A.),	1984,	2013, 282,		10,	UIS, Teoria
+Rodriguez (Yeinzon),	2002,	2013, 1018,		12,	UIS/UAN, Teoria
+Ferrin (Ignacio),	1974,	2014, 567,		12,	UdeA, Obs.
+Granda (L. N.), 	1992,	2014, 494,		12,	UniValle, Teoria
+Vargas-Dominguez,	2007,	2014, 314,		10, 	OAN, Obs.
+Nuñez (L. A.),		1984,	2013, 282,		10,	UIS, Teoria
 Romano (Antonio Enea), 	2006, 	2013, 311, 		9, 	UdeA, Teoria
-González (Guillermo A.), 1999,	2014, 276,		9,	UIS, Teoria
-Forero-Romero,		2007,	2014, 267,		9,	Andes, Computo
-Beltran-Almeida, 	2004, 	2014, 199,		9, 	UAN, Teoria
-Valenzuela-Toledo ,	2008,	2013, 330,		8,	UniValle, Teoria
+Forero-Romero,		2007,	2014, 291,		9,	Andes, Computo
+González (Guillermo A.), 1999,	2014, 280,		9,	UIS, Teoria
+Beltran-Almeida, 	2004, 	2014, 182,		8, 	UAN, Teoria
+Valenzuela-Toledo ,	2008,	2013, 297,		7,	UniValle, Teoria
 Sabogal/Sabogal-Martinez,2001,	2013, 95,		7,	Andes, Obs.
 Silva-Villa,		2008,	2014, 171,		6, 	UdeA, Obs.
 Gomez-Perez (Natalia),	2005,	2011, 131,		6,	Andes, Computo
-Zuluaga	,		2001,	2014, 94,		6,	UdeA, Computo
+Zuluaga	(Jorge I.),	2001,	2014, 81,		6,	UdeA, Computo
 Sanabria-Gomez J.D. , 	2000,	2014, 142,		5,	UIS, Teoria
 Larranaga ,		2007,	2012, 132,		5,	OAN, Teoria
 Hoyos (Jaime),		2004,	2013, 80, 		5, 	UdM, Computo 
@@ -33,7 +33,7 @@ Calvo-Mozo	,	2001,	2012, 9,		1,	OAN, Obs.
 Chaparro-Molano,	2012,	2012, 5,		1,	ECCI, Computo
 Lorduy-Gomez, 		2012,	2012, 4,		1,	EAFIT, Teoria
 Higuera 	,	2002,	2009, 2,		1,	OAN, Obs.
-Arenas-Salazar, 	2006, 	2006,    0, 		0, 	OAN, Teoria
+Arenas-Salazar, 	2006, 	2006, 0, 		0, 	OAN, Teoria
 *Noreña, 		2008, 	,527, 		13, Suiza, Teoria
 *Mosquera-Cuesta,	1998,	,357,		13, Brasil, Teoria
 *Rueda (Jorge A),	2006,	,239,		10, Italia, Teoria
