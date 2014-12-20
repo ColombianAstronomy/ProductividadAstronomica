@@ -15,10 +15,11 @@
   - Univalle: 2 personas
   - UAN: 2 personas
 
-* 37 hombres, 3 mujeres. Todas las mujeres de la lista trabajan en Uniandes (mal por la igualdad de género en el resto de instituciones)
+* 37 hombres, 3 mujeres. Todas las mujeres de la lista trabajan en Uniandes.
 
 * Perfiles de investigacion
-  - Teoria: 17 personas
+  - Teoría: 17 personas
   - Observacional: 14 personas
-  - Computo: 11 personas
-  - Instrumentacion: 2 personas
+  - Cómputo: 11 personas
+  - Instrumentación: 2 personas
+
