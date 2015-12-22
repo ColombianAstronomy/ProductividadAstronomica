@@ -1,0 +1,2 @@
+https://ui.adsabs.harvard.edu/#search/q=%3Dauthor%3A%22Gonz%C3%A1lez%2C+Guillermo.+A.%22&sort=date+desc/metrics
+https://ui.adsabs.harvard.edu/#search/q=+%3Dauthor%3A%22Ruiz%2C+Milton%22&sort=date+desc/metrics
