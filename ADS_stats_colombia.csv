@@ -1,41 +1,39 @@
-#Apellido,Primera Entrada,	Entrada Reciente, Citaciones,	h-index, Universidad, Area 
-Rodriguez (Yeinzon),	2002,	2014, 1023,		12,	UIS/UAN, Teoria
-Ferrin (Ignacio),	1969,	2014, 575,		12,	UdeA, Obs.
-Granda (L. N.), 	1992,	2014, 503,		12,	Univalle, Teoria
-Vargas-Dominguez,	2007,	2014, 318,		10, 	OAN, Obs.
-Nuñez (L. A.),		1984,	2014, 286,		10,	UIS, Teoria
-González (Guillermo A.), 1999,	2014, 284,		10,	UIS, Teoria
-Pachon (Leonardo),      2006 ,	2015, 266,		10,	UdeA, Teoria
-Forero-Romero,		2007,	2014, 323,		9,	Uniandes, Computo
-Valenzuela-Toledo ,	2008,	2014, 296,		8,	Univalle, Teoria
-Romano (Antonio Enea), 	2006, 	2013, 282, 		8, 	UdeA, Teoria
-Beltran-Almeida, 	2004, 	2014, 184,		8, 	UAN, Teoria
-*Silva-Villa,		2008,	2014, 180,		7, 	UdeA, Obs.
-*Ruiz Milton,		2007,   2014, 109,		7,	UIS, Computo
-Sabogal/Sabogal-Martinez,2000,	2014, 100,		7,	Uniandes, Obs.
-Hoyos (Jaime),		2004,	2014, 98, 		7, 	UdM, Computo 
-Zuluaga	(Jorge I.),	2001,	2014, 91,		7,	UdeA, Computo
-Larranaga Alexis ,	2007,	2014, 127,		6,	OAN, Teoria
-Garcia-Varela,		2001,	2014, 81,		6,	Uniandes, Obs.
-*Lora-Clavijo,		2010,	2014, 65,		6,	UIS, Computo
-Sanabria-Gomez J.D. , 	2000,	2014, 156,		5,	UIS, Teoria
-Tejeiro	,		1998,	2014, 79,		5,	OAN, Teoria
-Munoz-Cuartas,		2011,	2014, 148,		4,	UdeA, Computo
-Gutierrez-Piñeres, 	2008, 	2014, 55,		4,  	UBolivar, Teoria
-*Montoya Edison, 	2011,	2012, 52,   		4, 	UIS, Teoria
-Castaneda L.,		2004,	2014, 40,		4,	OAN, Teoria
-Casas-Miranda/Casas R.A.,	2002,	2014,  117,		3,	UNal, Computo
-Pinzon	Giovanni,   	2001,	2013, 84,		3,	OAN, Obs.
-Garcia-Reyes (Gonzalo), 2004,	2014, 34,		3,	UTP, Teoria
-*Cuartas Pablo	,	2012,	2013, 24,		3,	UdeA, Computo
-Vera-Villamizar,	1998,	2012, 24,		3,	UPTC, Obs.
-*Arias (Veronica), 	2009,	2014, 35, 		2,      Uniandes, Computo / Obs.
-Higuera-G M. A.,	2001,	2014, 22,		2,	OAN, Obs.
-Chaparro-Molano,	2012,	2014, 8,		2,	ECCI, Computo
-Portilla J. G.	,	2002,	2014, 9,		2,	OAN, Obs.
-Calvo-Mozo	,	2001,	2012, 10,		1,	OAN, Obs.
-Lorduy-Gomez, 		2012,	2012, 6,		1,	EAFIT, Teoria
-Arenas-Salazar, 	2006, 	2006, 0, 		0, 	OAN, Teoria
-Quijano-Vodniza,	2007, 	2013, 0, 		0, 	ObsPasto, Obs. 
-Oostra, 		2012, 	2012, 0,		0,	Uniandes, Obs. / Inst.
-Franco-Alzate, 		-, -, 0,      0,	OAN, Teoria.
+Apellidos, Primera entrada, Ultima entrada, Citaciones, Indice H
+'Rodriguez, Y.', 2005, 2013, 1055, 12
+'Ferrin, I.', 1974, 2014, 568, 12
+'Vargas-Dominguez, S.', 2007, 2015, 397, 11
+'Granda, L. N.', 1998, 2014, 466, 10
+'Forero-Romero, J. E.', 2007, 2015, 393, 10
+'Silva-Villa', 2008, 2015, 299, 10
+'Nunez, L. A.', 1987, 2013, 229, 10
+'Valenzuela-Toledo', 2008, 2013, 310, 8
+'Beltran-Almeida', 2004, 2014, 188, 8
+'Romano, A. E.', 2005, 2014, 207, 7
+'Lora-Clavijo', 2010, 2015, 114, 7
+'Sabogal ; Sabogal-Martinez', 2001, 2013, 103, 7
+'Hoyos, Jaime', 2003, 2014, 103, 7
+'Garcia-Varela', 2001, 2013, 92, 7
+'Zuluaga, J. I.', 2001, 2015, 87, 7
+'Munoz-Cuartas', 2011, 2015, 203, 6
+'Tejeiro', 1998, 2015, 97, 6
+'Pachon, L.', 2006, 2012, 68, 5
+'Gutierrez-Pineres', 2008, 2015, 52, 4
+'Castaneda, L.', 2010, 2015, 49, 4
+'Larranaga, A.', 2008, 2015, 45, 4
+'Casas-Miranda', 2002, 2012, 100, 3
+'Pinzon, G.', 2004, 2012, 89, 3
+'Montoya, Edison', 2011, 2012, 52, 3
+'Cuartas, Pablo A. ; Cuartas-Restrepo, Pablo A.', 2012, 2013, 28, 3
+'Vera-Villamizar', 2001, 2003, 26, 3
+'Garcia-Reyes, G.', 2004, 2014, 26, 3
+'Sanabria-Gomez, J.D.', 1998, 2015, 20, 3
+'Arias, Veronica', 2012, 2014, 60, 2
+'Higuera-G, M. A.', 2001, 2002, 23, 2
+'Portilla, J. G.', 2004, 2011, 13, 2
+'Chaparro-Molano', 2012, 2012, 9, 2
+'Calvo-Mozo', 2012, 2012, 17, 1
+'Lorduy-Gomez', 2012, 2012, 7, 1
+'Arenas-Salazar', 0, 0, 0, 0
+'Quijano-Vodniza', 0, 0, 0, 0
+'Oostra, Benjamin', 0, 0, 0, 0
+'Franco-Alzate', 0, 0, 0, 0
