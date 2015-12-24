@@ -1,22 +1,20 @@
-#Apellido,Primer Paper,	Paper Reciente, Citaciones,	h-index, Universidad, Area 
-Noreña, 		2008, 	,527, 		13, Suiza, Teoria
-Gonzalez-Gaitan (Santiago),	2010,	,967, 		12, Chile, Obs.
-Pinilla (Paola), 	2012,	,305,		9, Holanda, Obs.
-Martínez-Fiorenzano, 	2003,	,207,		9, Italia, Obs.
-Nuñez (Paul D.),	2008,	,222,		8, Francia, Inst.
-Martinez-Oliveros,	2007,	,118,		8, USA, Obs.
-Trujillo-Gomez, 	2011, 	,435,		7, Suiza, Computo 
-Soler, 		2010,	,143,		7, Francia, Inst.
-Balaguera-Antolinez,	2005,	,140,		7, Italia, Teoria
-Bueno-Sanchez, 	2007, 	,140,		7, Espana, Teoria
-Vera-Ciro, 		2011,	2014, 185,		6, USA, Computo
-Munoz-Jaramillo,	2009,	,141,		6, USA, Computo
-Peña-Ramirez, 		2011,	,92,		6, Chile, Obs.
-Ramos-Caro,		2008,	,73,		6, Brasil, Teoria
-Copete, 		2007, 2012, 236,		4, USA, Obs
-Ramirez-Agudelo, 	2013, 2015, 162,		4, Alemania, Obs
-Martinez-Galarza,	2008,	2014 ,63,		4, USA, Obs.
-Plazas (A. A.), 	2008, 2014, 22, 	3, USA, Obs./Inst.
-Bernal, 		2010,	,22,		2, Brasil, Computo
-Cruz-Diaz, 		2012,	,5,		1, España, Exp.
-Rodriguez-Ferreira, 	2008,	,0,		0, Francia, Inst.
+Apellidos, Primera entrada, Ultima entrada, Citaciones, Indice H
+"Gonzalez-Gaitan, S.", 2010, 2015, 1104, 13
+"Pinilla, P.", 2012, 2015, 519, 11
+"Martínez-Fiorenzano", 2004, 2015, 264, 10
+"Plazas, A. A.", 2014, 2016, 248, 9
+"Martinez-Oliveros", 2007, 2015, 195, 9
+"Trujillo-Gomez", 2011, 2015, 701, 8
+"Nunez, Paul D.", 2010, 2013, 264, 8
+"Munoz-Jaramillo", 2009, 2015, 236, 8
+"Vera-Ciro", 2011, 2015, 261, 7
+"Bueno-Sanchez", 2007, 2013, 157, 7
+"Balaguera-Antolinez", 2005, 2013, 142, 7
+"Ramos-Caro", 2008, 2012, 77, 7
+"Pena-Ramirez", 2011, 2014, 120, 6
+"Martinez-Galarza", 2008, 2014, 98, 5
+"Ramirez-Agudelo", 2013, 2015, 177, 4
+"Soler, J. D.", 2009, 2013, 59, 4
+"Cruz-Diaz", 2012, 2014, 46, 4
+"Copete", 2010, 2012, 242, 3
+"Bernal, C. G.", 2010, 2014, 18, 2
