@@ -2,7 +2,9 @@ Nombre | Institucion | H-index | Citations | Años Actividad |
 ------ | ---------- | -------- | ---------- | ----------|
 [Luis A Núñez](https://scholar.google.com/citations?user=2Q5_QxkAAAAJ&hl=en) | UIS | 17 | 1275 | 28 |
 [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 17 | 889 | 40 |
-[Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 15 | 529 | 18 | 
+[Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 15 | 529 | 18 |
+[Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ&hl=en&oi=ao) | Uniandes | 14 | 754 | 10 |
+[Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 14 | 659 | 11 |
 [Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 14 | 579 | 8 | 
 [Jorge Zuluaga](https://scholar.google.com/citations?user=qpGVqNwAAAAJ&hl=en&oi=ao) | UdeA | 11 | 314 | 18 |
 [Beatriz Eugenia Sabogal Martínez](https://scholar.google.com/citations?user=T-0RjQYAAAAJ&hl=en) | Uniandes | 8 | 144 | 16 |
