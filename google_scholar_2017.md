@@ -1,4 +1,4 @@
-Toma en cuenta solamente los últimos 5 años de actividad
+Toma en cuenta solamente citaciones en los últimos cinco años
 
 Nombre | Institucion | H-index | Citations | Años Actividad | 
 ------ | ---------- | -------- | ---------- | ----------|
