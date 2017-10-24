@@ -13,8 +13,8 @@ Nombre | Institucion | H-index | Citations | Años Actividad |
 [Carlos Vera-Ciro](https://scholar.google.com/citations?user=Wts84RsAAAAJ&hl=en) | UdeM | 8 | 451 | 7 |
 [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 8 | 312 | 40 |
 [Juan Carlos Muñoz Cuartas](https://scholar.google.com/citations?user=tQkmHH8AAAAJ&hl=en) | UdeA | 6 | 310 | 8 |
-[Beatriz Eugenia Sabogal Martínez](https://scholar.google.com/citations?user=T-0RjQYAAAAJ&hl=en) | Uniandes | 5 | 70 | 16 |
 [José Alejandro García Varela](https://scholar.google.com/citations?user=iA0H5dgAAAAJ&hl=en) | Uniandes | 5 | 95 | 16 |
+[Beatriz Eugenia Sabogal Martínez](https://scholar.google.com/citations?user=T-0RjQYAAAAJ&hl=en) | Uniandes | 5 | 70 | 16 |
 [PABLO CUARTAS RESTREPO](https://scholar.google.com/citations?user=c4zrU20AAAAJ&hl=en) | UdeA | 5| 82 | 6 |
 [Rigoberto Angel Casas Miranda](https://scholar.google.com/citations?user=i9vdtq0AAAAJ&hl=en) | UNAL | 3 | 67 | 16 |
 [Germán Chaparro Molano](https://scholar.google.com/citations?user=FHzXPgoAAAAJ&hl=en) | ECCI | 3 | 22 | 8 |
