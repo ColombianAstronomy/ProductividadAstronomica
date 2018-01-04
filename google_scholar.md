@@ -2,12 +2,12 @@ Toma en cuenta solamente citaciones desde el 2013
 
 Nombre | Institucion | H-index | Citations | Años con Citaciones | 
 ------ | ---------- | -------- | ---------- | ----------|
-[Luis A Núñez](https://scholar.google.com/citations?user=2Q5_QxkAAAAJ&hl=en) | UIS | 14 | 842 | 28 |
-[Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ&hl=en&oi=ao) | Uniandes | 14 | 738 | 10 |
-[Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 14 | 562 | 8 | 
-[Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 13 | 584 | 11 |
-[Luis Granda](https://scholar.google.com/citations?user=FGfHWuwAAAAJ&hl=en) | Univalle | 11 | 643 | 20 | 
-[Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 11 | 281 | 18 |
+[Luis A Núñez](https://scholar.google.com/citations?user=2Q5_QxkAAAAJ&hl=en) | UIS | 15 | 883 | 29 |
+[Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 14 | 518 | 9 | 
+[Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ&hl=en&oi=ao) | Uniandes | 13 | 686 | 11 |
+[Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 12 | 506 | 11 |
+[Luis Granda](https://scholar.google.com/citations?user=FGfHWuwAAAAJ&hl=en) | Univalle | 10 | 529 | 21 | 
+[Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 9 | 237 | 19 |
 [José David Sanabria-Gómez](https://scholar.google.com/citations?user=Tclray4AAAAJ&hl=en) | UIS | 11 | 324 | 18 |
 [Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 11 | 235 | 8|
 [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 9 | 329 | 40 |
