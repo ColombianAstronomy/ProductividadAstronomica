@@ -9,8 +9,8 @@ Nombre | Institucion | H-index | Citations | Años con Citaciones |
 [Luis Granda](https://scholar.google.com/citations?user=FGfHWuwAAAAJ&hl=en) | Univalle | 10 | 529 | 21 | 
 [José David Sanabria-Gómez](https://scholar.google.com/citations?user=Tclray4AAAAJ&hl=en) | UIS | 10 | 288 | 19 |
 [Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 10 | 219 | 9 |
-[Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 9 | 237 | 19 |
 [Jorge Zuluaga](https://scholar.google.com/citations?user=qpGVqNwAAAAJ&hl=en&oi=ao) | UdeA | 9 | 273 | 19 |
+[Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 9 | 237 | 19 |
 [Carlos Vera-Ciro](https://scholar.google.com/citations?user=Wts84RsAAAAJ&hl=en) | UdeM | 8 | 437 | 8 |
 [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 8 | 289 | 41 |
 [Juan Carlos Muñoz Cuartas](https://scholar.google.com/citations?user=tQkmHH8AAAAJ&hl=en) | UdeA | 6 | 278 | 9 |
