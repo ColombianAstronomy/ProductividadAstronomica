@@ -13,15 +13,15 @@ Nombre | Institucion | H-index | Citations | Años con Citaciones |
 [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 9 | 363 | 41 |
 [Jorge Zuluaga](https://scholar.google.com/citations?user=qpGVqNwAAAAJ&hl=en&oi=ao) | UdeA | 9 | 324 | 19 |
 [Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 9 | 267 | 19 |
-[CESAR A. VALENZUELA-TOLEDO](https://scholar.google.com/citations?user=J89OrSkAAAAJ&hl=en)| Univalle | 9| 181| 12 |
+[CESAR A. VALENZUELA-TOLEDO](https://scholar.google.com/citations?user=J89OrSkAAAAJ&hl=en)| Univalle | 9| 183| 12 |
 [Juan Carlos Muñoz Cuartas](https://scholar.google.com/citations?user=tQkmHH8AAAAJ&hl=en) | UdeA | 6 | 304 | 9 |
 [PABLO CUARTAS RESTREPO](https://scholar.google.com/citations?user=c4zrU20AAAAJ&hl=en) | UdeA | 6| 99 | 7 |
-[Beatriz Eugenia Sabogal Martínez](https://scholar.google.com/citations?user=T-0RjQYAAAAJ&hl=en) | Uniandes | 6 | 75 | 17 |
-[Giovanni Pinzón](https://scholar.google.com/citations?user=F25UKOkAAAAJ&hl=en)| OAN | 5 | 760 | 10 |
+[Beatriz Eugenia Sabogal Martínez](https://scholar.google.com/citations?user=T-0RjQYAAAAJ&hl=en) | Uniandes | 6 | 77 | 17 |
+[Giovanni Pinzón](https://scholar.google.com/citations?user=F25UKOkAAAAJ&hl=en)| OAN | 5 | 839 | 10 |
 [Rigoberto Angel Casas Miranda](https://scholar.google.com/citations?user=i9vdtq0AAAAJ&hl=en) | UNAL | 5 | 105 | 17 |
 [José Alejandro García Varela](https://scholar.google.com/citations?user=iA0H5dgAAAAJ&hl=en) | Uniandes | 5 | 102 | 17 |
 [Fredy L. Dubeibe](https://scholar.google.com/citations?user=BgO_bU8AAAAJ&hl=en) | Unillanos | 4 | 55 | 12 |
 [Germán Chaparro Molano](https://scholar.google.com/citations?user=FHzXPgoAAAAJ&hl=en) | ECCI | 3 | 25 | 9 |
-[Mario-Armando Higuera-Garzón](https://scholar.google.com/citations?user=goHAHhMAAAAJ&hl=en) | OAN | 2 | 5 | 22 |
-[Julian Rodriguez-Ferreira](https://scholar.google.com/citations?user=gy2sAsIAAAAJ&hl=en&oi=ao) | UIS | 1 | 2 | 4 |
+[Mario-Armando Higuera-Garzón](https://scholar.google.com/citations?user=goHAHhMAAAAJ&hl=en) | OAN | 2 | 6 | 22 |
+[Julian Rodriguez-Ferreira](https://scholar.google.com/citations?user=gy2sAsIAAAAJ&hl=en&oi=ao) | UIS | 1 | 6 | 4 |
 
