@@ -1,4 +1,4 @@
-Toma en cuenta solamente citaciones desde el 2014
+Toma en cuenta solamente citaciones de los últimos 5 años.
 
 Nombre | Institucion | H-index | Citations | Años con Citaciones | 
 ------ | ---------- | -------- | ---------- | ----------|
