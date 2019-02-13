@@ -21,7 +21,8 @@ Nombre | Institucion | H-index | Citaciones | Años con Citaciones |
 [Beatriz Eugenia Sabogal Martínez](https://scholar.google.com/citations?user=T-0RjQYAAAAJ&hl=en) | Uniandes | 5 | 72 | 17 |
 [Fredy L. Dubeibe](https://scholar.google.com/citations?user=BgO_bU8AAAAJ&hl=en) | Unillanos | 5 | 65 | 12 |
 [Rigoberto Angel Casas Miranda](https://scholar.google.com/citations?user=i9vdtq0AAAAJ&hl=en) | UNAL | 5 | 96 | 17 |
-[Germán Chaparro Molano](https://scholar.google.com/citations?user=FHzXPgoAAAAJ&hl=en) | ECCI | 3 | 25 | 9 |
+[Germán Chaparro Molano](https://scholar.google.com/citations?user=FHzXPgoAAAAJ&hl=en) | ECCI | 3 | 25 | 9 | 
+[Benjamin Oostra](https://scholar.google.com/citations?user=A-57orIAAAAJ&hl=en&oi=ao) | Uniandes | 3 | 23 | 13 |
 [Mario-Armando Higuera-Garzón](https://scholar.google.com/citations?user=goHAHhMAAAAJ&hl=en) | OAN | 2 | 6 | 22 |
 [Julian Rodriguez-Ferreira](https://scholar.google.com/citations?user=gy2sAsIAAAAJ&hl=en&oi=ao) | UIS | 1 | 6 | 4 |
 
