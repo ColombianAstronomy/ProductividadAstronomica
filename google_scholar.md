@@ -1,6 +1,6 @@
 Toma en cuenta solamente citaciones de los últimos 5 años.
 
-Nombre | Institucion | H-index | Citations | Años con Citaciones | 
+Nombre | Institucion | H-index | Citaciones | Años con Citaciones | 
 ------ | ---------- | -------- | ---------- | ----------|
 [Luis A Núñez](https://scholar.google.com/citations?user=2Q5_QxkAAAAJ&hl=en) | UIS | 18 | 1732 | 29 |
 [Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ) | Uniandes | 14 | 842 | 11 |
