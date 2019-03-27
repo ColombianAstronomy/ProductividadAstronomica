@@ -23,6 +23,7 @@ Nombre | Institucion | H-index | Citaciones | Años con Citaciones |
 [Giovanni Pinzón](https://scholar.google.com/citations?user=F25UKOkAAAAJ&hl=en)| OAN | 4 | 724 | 10 |
 [Germán Chaparro Molano](https://scholar.google.com/citations?user=FHzXPgoAAAAJ&hl=en) | ECCI | 3 | 25 | 9 | 
 [Benjamin Oostra](https://scholar.google.com/citations?user=A-57orIAAAAJ&hl=en&oi=ao) | Uniandes | 3 | 23 | 13 |
+[Oscar Alberto Restrepo Gaitan](https://scholar.google.com/citations?user=ecKvoBgAAAAJ&hl=en) | ECCI | 2 | 8 | 8 | 
 [Mario-Armando Higuera-Garzón](https://scholar.google.com/citations?user=goHAHhMAAAAJ&hl=en) | OAN | 2 | 8 | 22 |
 [Julian Rodriguez-Ferreira](https://scholar.google.com/citations?user=gy2sAsIAAAAJ&hl=en&oi=ao) | UIS | 1 | 7 | 4 |
 
