@@ -7,9 +7,9 @@ Nombre | Institucion | H-index | Citaciones | Años con Citaciones |
 [José David Sanabria-Gómez](https://scholar.google.com/citations?user=Tclray4AAAAJ&hl=en) | UIS | 13 | 826 | 19 |
 [Yeinzon Rodriguez](https://scholar.google.com/citations?user=5gEif2UAAAAJ&hl=en) | UIS | 11 | 583 | 14 |
 [Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 11 | 443 | 13 |
+[Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 11 | 274 | 9 |
 [Luis Granda](https://scholar.google.com/citations?user=FGfHWuwAAAAJ&hl=en) | Univalle | 10 | 545 | 21 | 
 [Jorge Zuluaga](https://scholar.google.com/citations?user=qpGVqNwAAAAJ&hl=en&oi=ao) | UdeA | 10 | 311 | 19 |
-[Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 11 | 274 | 9 |
 [Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 9 | 452 | 9 | 
 [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 9 |255 | 41 |
 [Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 9 | 219 | 19 |
