@@ -24,6 +24,7 @@ Nombre | Institucion | H-index | Citaciones | Años con Citaciones |
 [Edwin Andres Quintero Salazar](https://scholar.google.com/citations?user=Si_rL4gAAAAJ&hl=en&oi=ao)| UTP | 3 | 37 | 11 |
 [Benjamin Oostra](https://scholar.google.com/citations?user=A-57orIAAAAJ&hl=en&oi=ao) | Uniandes | 3 | 25 | 13 |
 [Germán Chaparro Molano](https://scholar.google.com/citations?user=FHzXPgoAAAAJ&hl=en) | ECCI | 3 | 17 | 9 | 
+[Jose Gregorio Portilla Barbosa](https://scholar.google.com/citations?hl=en&user=tDx7hEMAAAAJ) | OAN | 2 | 28 | 13 |
 [Oscar Alberto Restrepo Gaitan](https://scholar.google.com/citations?user=ecKvoBgAAAAJ&hl=en) | ECCI | 2 | 15 | 8 | 
 [Mario-Armando Higuera-Garzón](https://scholar.google.com/citations?user=goHAHhMAAAAJ&hl=en) | OAN | 2 | 9 | 22 |
 [Julian Rodriguez-Ferreira](https://scholar.google.com/citations?user=gy2sAsIAAAAJ&hl=en&oi=ao) | UIS | 1 | 8 | 4 |
