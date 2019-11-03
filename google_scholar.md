@@ -31,5 +31,6 @@ Nombre | Institucion | H-index | Citaciones | Años con Citaciones |
 [Oscar Alberto Restrepo Gaitan](https://scholar.google.com/citations?user=ecKvoBgAAAAJ&hl=en) | ECCI | 2 | 15 | 8 | 
 [Mario-Armando Higuera-Garzón](https://scholar.google.com/citations?user=goHAHhMAAAAJ&hl=en) | OAN | 2 | 13 | 22 |
 [Julian Rodriguez-Ferreira](https://scholar.google.com/citations?user=gy2sAsIAAAAJ&hl=en&oi=ao) | UIS | 2 | 10 | 4 |
+[Juan Manuel Tejeiro Sarmiento](https://scholar.google.com/citations?hl=en&user=hGwadTAAAAAJ) | OAN | 1 | 8 | 10 |
 [Jose Robel Arenas Salazar](https://scholar.google.com/citations?hl=en&user=IEVLREYAAAAJ) | OAN | 0 | 0 | 0 |
 
