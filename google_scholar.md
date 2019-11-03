@@ -15,6 +15,7 @@ Nombre | Institucion | H-index | Citaciones | Años con Citaciones |
 [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 9 | 279 | 41 |
 [CESAR A. VALENZUELA-TOLEDO](https://scholar.google.com/citations?user=J89OrSkAAAAJ&hl=en)| Univalle | 9 | 169 | 12 |
 [Juan Carlos Muñoz Cuartas](https://scholar.google.com/citations?user=tQkmHH8AAAAJ&hl=en) | UdeA | 7 | 336 | 9 |
+[Eduard Larrañaga](https://scholar.google.com/citations?hl=en&user=HyknmA8AAAAJ) | OAN | 7 | 168 | 16 | 
 [PABLO CUARTAS RESTREPO](https://scholar.google.com/citations?user=c4zrU20AAAAJ&hl=en) | UdeA | 7 | 123 | 7 |
 [Fredy L. Dubeibe](https://scholar.google.com/citations?user=BgO_bU8AAAAJ&hl=en) | Unillanos | 7 | 98 | 12 |
 [José Alejandro García Varela](https://scholar.google.com/citations?user=iA0H5dgAAAAJ&hl=en) | Uniandes | 6 | 92 | 17 |
@@ -30,4 +31,5 @@ Nombre | Institucion | H-index | Citaciones | Años con Citaciones |
 [Oscar Alberto Restrepo Gaitan](https://scholar.google.com/citations?user=ecKvoBgAAAAJ&hl=en) | ECCI | 2 | 15 | 8 | 
 [Mario-Armando Higuera-Garzón](https://scholar.google.com/citations?user=goHAHhMAAAAJ&hl=en) | OAN | 2 | 13 | 22 |
 [Julian Rodriguez-Ferreira](https://scholar.google.com/citations?user=gy2sAsIAAAAJ&hl=en&oi=ao) | UIS | 2 | 10 | 4 |
+[Jose Robel Arenas Salazar](https://scholar.google.com/citations?hl=en&user=IEVLREYAAAAJ) | OAN | 0 | 0 | 0 |
 
