@@ -13,6 +13,7 @@ Nombre | Institucion | H-index | Citaciones | Años con Citaciones |
 [Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 10 | 509 | 9 | 
 [Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 10 | 269 | 19 |
 [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 9 | 279 | 41 |
+[Juan Pablo Beltrán Almeida](https://scholar.google.com/citations?user=fkaJbT8AAAAJ&hl) | UAN | 9 | 261 | 15 |
 [CESAR A. VALENZUELA-TOLEDO](https://scholar.google.com/citations?user=J89OrSkAAAAJ&hl=en)| Univalle | 9 | 169 | 12 |
 [Juan Carlos Muñoz Cuartas](https://scholar.google.com/citations?user=tQkmHH8AAAAJ&hl=en) | UdeA | 7 | 336 | 9 |
 [Eduard Larrañaga](https://scholar.google.com/citations?hl=en&user=HyknmA8AAAAJ) | OAN | 7 | 168 | 16 | 
