@@ -34,4 +34,5 @@ Nombre | Institucion | H-index | Citaciones | Años con Citaciones |
 [Julian Rodriguez-Ferreira](https://scholar.google.com/citations?user=gy2sAsIAAAAJ&hl=en&oi=ao) | UIS | 2 | 10 | 4 |
 [Juan Manuel Tejeiro Sarmiento](https://scholar.google.com/citations?hl=en&user=hGwadTAAAAAJ) | OAN | 1 | 8 | 10 |
 [Jose Robel Arenas Salazar](https://scholar.google.com/citations?hl=en&user=IEVLREYAAAAJ) | OAN | 0 | 0 | 0 |
+[Guillermo Leon Franco Alzate](https://scholar.google.com/citations?hl=en&user=5VSFp1sAAAAJ) | OAN | 0 | 0 | 0 |
 
