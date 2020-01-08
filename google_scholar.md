@@ -3,15 +3,15 @@ Toma en cuenta solamente citaciones de los últimos 5 años.
 ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones | 
 --- | ------ | ---------- | -------- | ---------- | ----------|
 1 | [Luis A Núñez](https://scholar.google.com/citations?user=2Q5_QxkAAAAJ&hl=en) | UIS | 23 | 3122 | 30 |
-2 | [Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ) | Uniandes | 13 | 875 | 12 |
-3 | [José David Sanabria-Gómez](https://scholar.google.com/citations?user=Tclray4AAAAJ&hl=en) | UIS | 14 | 1108 | 20 |
-4 | [Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 14 | 472 | 14 |
+2 | [José David Sanabria-Gómez](https://scholar.google.com/citations?user=Tclray4AAAAJ&hl=en) | UIS | 14 | 1108 | 20 |
+3 | [Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 14 | 472 | 14 |
+4 | [Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ) | Uniandes | 13 | 875 | 12 |
 5 | [Yeinzon Rodriguez](https://scholar.google.com/citations?user=5gEif2UAAAAJ&hl=en) | UIS | 11 | 552 | 15 |
 6 | [Luis Granda](https://scholar.google.com/citations?user=FGfHWuwAAAAJ&hl=en) | Univalle | 11 | 525 | 22 | 
-7 | [Jorge Zuluaga](https://scholar.google.com/citations?user=qpGVqNwAAAAJ&hl=en&oi=ao) | UdeA | 10 | 356 | 20 |
-8 | [Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 11 | 310 | 10 |
-9 | [Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 11 | 268 | 20 |
-10 | [Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 10 | 463 | 10 | 
+7 | [Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 11 | 310 | 10 |
+8 | [Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 11 | 268 | 20 |
+9 | [Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 10 | 463 | 10 | 
+10 | [Jorge Zuluaga](https://scholar.google.com/citations?user=qpGVqNwAAAAJ&hl=en&oi=ao) | UdeA | 10 | 356 | 20 |
 11 | [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 8 | 213 | 42 |
 12 | [Juan Pablo Beltrán Almeida](https://scholar.google.com/citations?user=fkaJbT8AAAAJ&hl) | UAN | 8 | 252 | 16 |
 13 | [CESAR A. VALENZUELA-TOLEDO](https://scholar.google.com/citations?user=J89OrSkAAAAJ&hl=en)| Univalle | 7 | 122 | 13 |
