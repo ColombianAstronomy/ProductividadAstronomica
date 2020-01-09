@@ -12,16 +12,16 @@ ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones |
 8 | [Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 11 | 268 | 20 |
 9 | [Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 10 | 463 | 10 | 
 10 | [Jorge Zuluaga](https://scholar.google.com/citations?user=qpGVqNwAAAAJ&hl=en&oi=ao) | UdeA | 10 | 356 | 20 |
-11 | [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 8 | 213 | 42 |
-12 | [Juan Pablo Beltrán Almeida](https://scholar.google.com/citations?user=fkaJbT8AAAAJ&hl) | UAN | 8 | 252 | 16 |
-13 | [CESAR A. VALENZUELA-TOLEDO](https://scholar.google.com/citations?user=J89OrSkAAAAJ&hl=en)| Univalle | 7 | 122 | 13 |
-14 | [Juan Carlos Muñoz Cuartas](https://scholar.google.com/citations?user=tQkmHH8AAAAJ&hl=en) | UdeA | 7 | 290 | 10 |
-15 | [Eduard Larrañaga](https://scholar.google.com/citations?hl=en&user=HyknmA8AAAAJ) | OAN | 7 | 139 | 17 | 
+11 | [Juan Pablo Beltrán Almeida](https://scholar.google.com/citations?user=fkaJbT8AAAAJ&hl) | UAN | 8 | 252 | 16 |
+12 | [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 8 | 213 | 42 |
+13 | [Juan Carlos Muñoz Cuartas](https://scholar.google.com/citations?user=tQkmHH8AAAAJ&hl=en) | UdeA | 7 | 290 | 10 |
+14 | [Eduard Larrañaga](https://scholar.google.com/citations?hl=en&user=HyknmA8AAAAJ) | OAN | 7 | 139 | 17 | 
+15 | [CESAR A. VALENZUELA-TOLEDO](https://scholar.google.com/citations?user=J89OrSkAAAAJ&hl=en)| Univalle | 7 | 122 | 13 |
 16 | [PABLO CUARTAS RESTREPO](https://scholar.google.com/citations?user=c4zrU20AAAAJ&hl=en) | UdeA | 7 | 112 | 8 |
 17 | [Fredy L. Dubeibe](https://scholar.google.com/citations?user=BgO_bU8AAAAJ&hl=en) | Unillanos | 6 | 95 | 13 |
-18 | [José Alejandro García Varela](https://scholar.google.com/citations?user=iA0H5dgAAAAJ&hl=en) | Uniandes | 5 | 84 | 18 |
-19 | [Giovanni Pinzón](https://scholar.google.com/citations?user=F25UKOkAAAAJ&hl=en)| OAN | 5 | 807 | 11 |
-20 | [Rigoberto Angel Casas Miranda](https://scholar.google.com/citations?user=i9vdtq0AAAAJ&hl=en) | UNAL | 5 | 96 | 18 |
+18 | [Giovanni Pinzón](https://scholar.google.com/citations?user=F25UKOkAAAAJ&hl=en)| OAN | 5 | 807 | 11 |
+19 | [Rigoberto Angel Casas Miranda](https://scholar.google.com/citations?user=i9vdtq0AAAAJ&hl=en) | UNAL | 5 | 96 | 18 |
+20 | [José Alejandro García Varela](https://scholar.google.com/citations?user=iA0H5dgAAAAJ&hl=en) | Uniandes | 5 | 84 | 18 |
 21 | [Beatriz Eugenia Sabogal Martínez](https://scholar.google.com/citations?user=T-0RjQYAAAAJ&hl=en) | Uniandes | 5 | 73 | 18 |
 22 | [Jose Gregorio Portilla Barbosa](https://scholar.google.com/citations?hl=en&user=tDx7hEMAAAAJ) | OAN | 5 | 56 | 14 |
 23 | [Leonardo CastaÑeda Colorado](https://scholar.google.com/citations?hl=en&user=yJNS9DIAAAAJ) | OAN | 4 | 108 | 16 | 
