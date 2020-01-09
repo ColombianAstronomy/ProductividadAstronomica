@@ -2,7 +2,7 @@ Toma en cuenta solamente citaciones de los últimos 5 años.
 
 ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones | 
 --- | ------ | ---------- | -------- | ---------- | ----------|
-1 | [Luis A Núñez](https://scholar.google.com/citations?user=2Q5_QxkAAAAJ&hl=en) | UIS | 23 | 3122 | 30 |
+1 | [Luis A Núñez](https://scholar.google.com/citations?user=2Q5_QxkAAAAJ&hl=en) | UIS | 23 | 3120 | 30 |
 2 | [José David Sanabria-Gómez](https://scholar.google.com/citations?user=Tclray4AAAAJ&hl=en) | UIS | 14 | 1108 | 20 |
 3 | [Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 14 | 472 | 14 |
 4 | [Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ) | Uniandes | 13 | 875 | 12 |
