@@ -8,9 +8,9 @@ ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones |
 3 | [Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ) | Uniandes | 14 | 951| 12 |
 5 | [Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 12 | 609 | 10 | 
 6 | [Yeinzon Rodriguez](https://scholar.google.com/citations?user=5gEif2UAAAAJ&hl=en) | UIS | 12 | 603 | 15 |
-7 | [Luis Granda](https://scholar.google.com/citations?user=FGfHWuwAAAAJ&hl=en) | Univalle | 11 | 572 | 22 | 
-8 | [Jorge Zuluaga](https://scholar.google.com/citations?user=qpGVqNwAAAAJ&hl=en&oi=ao) | UdeA | 11 | 355 | 20 |
-9 | [Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 11 | 328 | 10 |
+7 | [Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 12 | 338 | 10 |
+8 | [Luis Granda](https://scholar.google.com/citations?user=FGfHWuwAAAAJ&hl=en) | Univalle | 11 | 572 | 22 | 
+9 | [Jorge Zuluaga](https://scholar.google.com/citations?user=qpGVqNwAAAAJ&hl=en&oi=ao) | UdeA | 11 | 355 | 20 |
 10 | [Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 11 | 277 | 20 |
 11 | [Juan Pablo Beltrán Almeida](https://scholar.google.com/citations?user=fkaJbT8AAAAJ&hl) | UAN | 8 | 257 | 16 |
 12 | [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 8 | 250 | 42 |
