@@ -14,12 +14,12 @@ ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones |
 10 | [Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 11 | 277 | 20 |
 11 | [Juan Pablo Beltrán Almeida](https://scholar.google.com/citations?user=fkaJbT8AAAAJ&hl) | UAN | 8 | 257 | 16 |
 12 | [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 8 | 250 | 42 |
-13 | [Juan Carlos Muñoz Cuartas](https://scholar.google.com/citations?user=tQkmHH8AAAAJ&hl=en) | UdeA | 7 | 301 | 10 |
-14 | [Eduard Larrañaga](https://scholar.google.com/citations?hl=en&user=HyknmA8AAAAJ) | OAN | 7 | 134 | 17 | 
-15 | [José Alejandro García Varela](https://scholar.google.com/citations?user=iA0H5dgAAAAJ&hl=en) | Uniandes | 7 | 109 | 18 |
-16 | [CESAR A. VALENZUELA-TOLEDO](https://scholar.google.com/citations?user=J89OrSkAAAAJ&hl=en)| Univalle | 6 | 113 | 13 |
-17 | [PABLO CUARTAS RESTREPO](https://scholar.google.com/citations?user=c4zrU20AAAAJ&hl=en) | UdeA | 6 | 102 | 8 |
-18 | [Fredy L. Dubeibe](https://scholar.google.com/citations?user=BgO_bU8AAAAJ&hl=en) | Unillanos | 6 | 96 | 13 |
+13 | [Fredy L. Dubeibe](https://scholar.google.com/citations?user=BgO_bU8AAAAJ&hl=en) | Unillanos | 8 | 107 | 13 |
+14 | [Juan Carlos Muñoz Cuartas](https://scholar.google.com/citations?user=tQkmHH8AAAAJ&hl=en) | UdeA | 7 | 301 | 10 |
+15 | [Eduard Larrañaga](https://scholar.google.com/citations?hl=en&user=HyknmA8AAAAJ) | OAN | 7 | 134 | 17 | 
+16 | [José Alejandro García Varela](https://scholar.google.com/citations?user=iA0H5dgAAAAJ&hl=en) | Uniandes | 7 | 109 | 18 |
+17 | [CESAR A. VALENZUELA-TOLEDO](https://scholar.google.com/citations?user=J89OrSkAAAAJ&hl=en)| Univalle | 6 | 113 | 13 |
+18 | [PABLO CUARTAS RESTREPO](https://scholar.google.com/citations?user=c4zrU20AAAAJ&hl=en) | UdeA | 6 | 102 | 8 |
 19 | [Beatriz Eugenia Sabogal Martínez](https://scholar.google.com/citations?user=T-0RjQYAAAAJ&hl=en) | Uniandes | 6 | 85 | 18 |
 20 | [Giovanni Pinzón](https://scholar.google.com/citations?user=F25UKOkAAAAJ&hl=en)| OAN | 5 | 595 | 11 |
 21 | [Camilo Delgado-Correal](https://scholar.google.com/citations?user=HXHGks0AAAAJ) | CienCo | 5 | 212 | 5 |
