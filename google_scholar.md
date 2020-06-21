@@ -3,12 +3,12 @@ Toma en cuenta solamente citaciones de los últimos 5 años.
 ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones | 
 --- | ------ | ---------- | -------- | ---------- | ----------|
 1 | [Luis A Núñez](https://scholar.google.com/citations?user=2Q5_QxkAAAAJ&hl=en) | UIS | 23 | 3513 | 30 |
-2 | [Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 15 | 618 | 14 |
-3 | [José David Sanabria-Gómez](https://scholar.google.com/citations?user=Tclray4AAAAJ&hl=en) | UIS | 14| 1118 | 20 |
-4 | [Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ) | Uniandes | 14 | 951| 12 |
+2 | [José David Sanabria-Gómez](https://scholar.google.com/citations?user=Tclray4AAAAJ&hl=en) | UIS | 15| 1242 | 20 |
+3 | [Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 15 | 618 | 14 |
+4 | [Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ) | Uniandes | 13 | 949| 12 |
 5 | [Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 12 | 609 | 10 | 
-6 | [Yeinzon Rodriguez](https://scholar.google.com/citations?user=5gEif2UAAAAJ&hl=en) | UIS | 12 | 603 | 15 |
-7 | [Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 12 | 338 | 10 |
+6 | [Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 12 | 338 | 10 |
+7 | [Yeinzon Rodriguez](https://scholar.google.com/citations?user=5gEif2UAAAAJ&hl=en) | UIS | 11 | 614 | 15 |
 8 | [Luis Granda](https://scholar.google.com/citations?user=FGfHWuwAAAAJ&hl=en) | Univalle | 11 | 572 | 22 | 
 9 | [Jorge Zuluaga](https://scholar.google.com/citations?user=qpGVqNwAAAAJ&hl=en&oi=ao) | UdeA | 11 | 355 | 20 |
 10 | [Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 11 | 277 | 20 |
