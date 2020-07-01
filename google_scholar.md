@@ -30,11 +30,12 @@ ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones |
 26 | [Benjamin Oostra](https://scholar.google.com/citations?user=A-57orIAAAAJ&hl=en&oi=ao) | Uniandes | 4 | 30 | 14 |
 27 | [Benjamin Calvo Mozo](https://scholar.google.com/citations?hl=en&user=xBhWLdQAAAAJ) | OAN | 3 | 32 | 7 |
 28 | [Luz Ángela García](https://scholar.google.com/citations?hl=en&user=ouj4SO0AAAAJ) | ECCI | 3 | 26 | 7 | 
-29 | [Germán Chaparro Molano](https://scholar.google.com/citations?user=FHzXPgoAAAAJ&hl=en) | UdeA | 3 | 21 | 10 | 
-30 | [Oscar Alberto Restrepo Gaitan](https://scholar.google.com/citations?user=ecKvoBgAAAAJ&hl=en) | ECCI | 2 | 13 | 9 | 
-31 | [Mario-Armando Higuera-Garzón](https://scholar.google.com/citations?user=goHAHhMAAAAJ&hl=en) | OAN | 2 | 13 | 23 |
-32 | [Julian Rodriguez-Ferreira](https://scholar.google.com/citations?user=gy2sAsIAAAAJ&hl=en&oi=ao) | UIS | 2 | 11 | 5 |
-33 | [Juan Manuel Tejeiro Sarmiento](https://scholar.google.com/citations?hl=en&user=hGwadTAAAAAJ) | OAN | 1 | 6 | 11 |
-34 | [Jose Robel Arenas Salazar](https://scholar.google.com/citations?hl=en&user=IEVLREYAAAAJ) | OAN | 0 | 0 | 0 |
-35 | [Guillermo Leon Franco Alzate](https://scholar.google.com/citations?hl=en&user=5VSFp1sAAAAJ) | OAN | 0 | 0 | 0 |
+29 | [Hernan Enrique Garrido Vertel](https://scholar.google.com/citations?user=nij86aIAAAAJ) | UniCordoba | 3 | 24 | 8 | 
+30 | [Germán Chaparro Molano](https://scholar.google.com/citations?user=FHzXPgoAAAAJ&hl=en) | UdeA | 3 | 21 | 10 | 
+31 | [Oscar Alberto Restrepo Gaitan](https://scholar.google.com/citations?user=ecKvoBgAAAAJ&hl=en) | ECCI | 2 | 13 | 9 | 
+32 | [Mario-Armando Higuera-Garzón](https://scholar.google.com/citations?user=goHAHhMAAAAJ&hl=en) | OAN | 2 | 13 | 23 |
+33 | [Julian Rodriguez-Ferreira](https://scholar.google.com/citations?user=gy2sAsIAAAAJ&hl=en&oi=ao) | UIS | 2 | 11 | 5 |
+34 | [Juan Manuel Tejeiro Sarmiento](https://scholar.google.com/citations?hl=en&user=hGwadTAAAAAJ) | OAN | 1 | 6 | 11 |
+35 | [Jose Robel Arenas Salazar](https://scholar.google.com/citations?hl=en&user=IEVLREYAAAAJ) | OAN | 0 | 0 | 0 |
+36 | [Guillermo Leon Franco Alzate](https://scholar.google.com/citations?hl=en&user=5VSFp1sAAAAJ) | OAN | 0 | 0 | 0 |
 
