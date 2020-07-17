@@ -21,6 +21,10 @@ Resultados de búsquedas ADS de artículos (refereed) que se encuentren exclusiv
 [Univalle](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=((database%3A%22astronomy%22)%20NOT%20database%3A%22physics%22%20NOT%20database%3A%22general%22)&fq_property=(property%3A%22refereed%22)&q=(aff%3A%22Colombia%22%20AND%20aff%3A%22Universidad%20del%20Valle%22)%20OR%20aff_id%3A%20A03111&sort=date%20desc%2C%20bibcode%20desc&p_=0)  
 8 Resultados.
 
+[UTPereira](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=NOT&filter_property_fq_property=*%3A*&filter_property_fq_property=property%3A%22notrefereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=((database%3A%22astronomy%22)%20NOT%20database%3A%22physics%22%20NOT%20database%3A%22general%22)&fq_property=(*%3A*%20NOT%20property%3A%22notrefereed%22)&q=(aff%3A%22Colombia%22%20AND%20aff%3A%22Universidad%20Tecnol%C3%B3gica%20de%20Pereira%22)%20OR%20aff_id%3A%20A03118%09&sort=date%20desc%2C%20bibcode%20desc&p_=0)  
+7 Resultados
+
+
 [Konrad Lorenz](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=NOT&filter_property_fq_property=*%3A*&filter_property_fq_property=property%3A%22notrefereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=((database%3A%22astronomy%22)%20NOT%20database%3A%22physics%22%20NOT%20database%3A%22general%22)&fq_property=(*%3A*%20NOT%20property%3A%22notrefereed%22)&q=aff%3A%22Colombia%22%20AND%20aff%3A%22Konrad%20Lorenz%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)  
 6 Resultados
 
