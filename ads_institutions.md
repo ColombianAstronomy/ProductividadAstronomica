@@ -38,5 +38,8 @@ La búsqueda por institución también utiliza el AffiliationID https://github.c
 [Unillanos](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=((database%3A%22astronomy%22)%20NOT%20database%3A%22physics%22%20NOT%20database%3A%22general%22)&fq_property=(property%3A%22refereed%22)&q=(aff%3A%22Colombia%22%20AND%20aff%3A%22Universidad%20de%20los%20Llanos%22)%20&sort=date%20desc%2C%20bibcode%20desc&p_=0)  
 3 Resultados
 
+[Sergio Arboleda](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=((database%3A%22astronomy%22)%20NOT%20database%3A%22physics%22)&fq_property=(property%3A%22refereed%22)&q=(aff%3A%22Colombia%22%20AND%20aff%3A%22Sergio%20Arboleda%22)%20&sort=date%20desc%2C%20bibcode%20desc&p_=0)  
+2 Resultados  
+
 [Distrital](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=NOT&filter_property_fq_property=*%3A*&filter_property_fq_property=property%3A%22notrefereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=((database%3A%22astronomy%22)%20NOT%20database%3A%22physics%22%20NOT%20database%3A%22general%22)&fq_property=(*%3A*%20NOT%20property%3A%22notrefereed%22)&q=aff%3A%22Colombia%22%20AND%20aff%3A%22Universidad%20Distrital%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)  
 2 Resultados
