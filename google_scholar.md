@@ -2,16 +2,16 @@ Toma en cuenta solamente citaciones de los últimos 5 años.
 
 ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones | 
 --- | ------ | ---------- | -------- | ---------- | ----------|
-1 | [Luis A Núñez](https://scholar.google.com/citations?user=2Q5_QxkAAAAJ&hl=en) | UIS | 23 | 3513 | 30 |
-2 | [José David Sanabria-Gómez](https://scholar.google.com/citations?user=Tclray4AAAAJ&hl=en) | UIS | 15| 1242 | 20 |
-3 | [Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 15 | 618 | 14 |
-4 | [Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ) | Uniandes | 13 | 949| 12 |
-5 | [Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 12 | 609 | 10 | 
-6 | [Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 12 | 338 | 10 |
-7 | [Yeinzon Rodriguez](https://scholar.google.com/citations?user=5gEif2UAAAAJ&hl=en) | UIS | 11 | 614 | 15 |
-8 | [Luis Granda](https://scholar.google.com/citations?user=FGfHWuwAAAAJ&hl=en) | Univalle | 11 | 572 | 22 | 
-9 | [Jorge Zuluaga](https://scholar.google.com/citations?user=qpGVqNwAAAAJ&hl=en&oi=ao) | UdeA | 11 | 355 | 20 |
-10 | [Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 11 | 277 | 20 |
+1 | [Luis A Núñez](https://scholar.google.com/citations?user=2Q5_QxkAAAAJ&hl=en) | UIS | 24 | 4101 | 30 |
+2 | [José David Sanabria-Gómez](https://scholar.google.com/citations?user=Tclray4AAAAJ&hl=en) | UIS | 15| 1279 | 20 |
+3 | [Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 15 | 655 | 14 |
+4 | [Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ) | Uniandes | 13 | 988 | 12 |
+5 | [Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 12 | 653 | 10 | 
+6 | [Yeinzon Rodriguez](https://scholar.google.com/citations?user=5gEif2UAAAAJ&hl=en) | UIS | 12 | 631 | 15 |
+7 | [Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 12 | 353 | 10 |
+8 | [Luis Granda](https://scholar.google.com/citations?user=FGfHWuwAAAAJ&hl=en) | Univalle | 11 | 623 | 22 | 
+9 | [Jorge Zuluaga](https://scholar.google.com/citations?user=qpGVqNwAAAAJ&hl=en&oi=ao) | UdeA | 11 | 366 | 20 |
+10 | [Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 11 | 279 | 20 |
 11 | [Juan Pablo Beltrán Almeida](https://scholar.google.com/citations?user=fkaJbT8AAAAJ&hl) | UAN | 8 | 257 | 16 |
 12 | [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 8 | 250 | 42 |
 13 | [Fredy L. Dubeibe](https://scholar.google.com/citations?user=BgO_bU8AAAAJ&hl=en) | Unillanos | 8 | 107 | 13 |
@@ -28,14 +28,14 @@ ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones |
 24 | [Leonardo CastaÑeda Colorado](https://scholar.google.com/citations?hl=en&user=yJNS9DIAAAAJ) | OAN | 4 | 108 | 16 | 
 25 | [Edwin Andres Quintero Salazar](https://scholar.google.com/citations?user=Si_rL4gAAAAJ&hl=en&oi=ao)| UTP | 4 | 40 | 12 |
 26 | [Benjamin Oostra](https://scholar.google.com/citations?user=A-57orIAAAAJ&hl=en&oi=ao) | Uniandes | 4 | 30 | 14 |
-27 | [Benjamin Calvo Mozo](https://scholar.google.com/citations?hl=en&user=xBhWLdQAAAAJ) | OAN | 3 | 32 | 7 |
-28 | [Luz Ángela García](https://scholar.google.com/citations?hl=en&user=ouj4SO0AAAAJ) | ECCI | 3 | 26 | 7 | 
-29 | [Hernan Enrique Garrido Vertel](https://scholar.google.com/citations?user=nij86aIAAAAJ) | UniCordoba | 3 | 24 | 8 | 
-30 | [Germán Chaparro Molano](https://scholar.google.com/citations?user=FHzXPgoAAAAJ&hl=en) | UdeA | 3 | 21 | 10 | 
-31 | [Oscar Alberto Restrepo Gaitan](https://scholar.google.com/citations?user=ecKvoBgAAAAJ&hl=en) | ECCI | 2 | 13 | 9 | 
-32 | [Mario-Armando Higuera-Garzón](https://scholar.google.com/citations?user=goHAHhMAAAAJ&hl=en) | OAN | 2 | 13 | 23 |
-33 | [Julian Rodriguez-Ferreira](https://scholar.google.com/citations?user=gy2sAsIAAAAJ&hl=en&oi=ao) | UIS | 2 | 11 | 5 |
+27 | [Benjamin Calvo Mozo](https://scholar.google.com/citations?hl=en&user=xBhWLdQAAAAJ) | OAN | 3 | 42 | 7 |
+28 | [Luz Ángela García](https://scholar.google.com/citations?hl=en&user=ouj4SO0AAAAJ) | ECCI | 3 | 29 | 7 | 
+29 | [Hernan Enrique Garrido Vertel](https://scholar.google.com/citations?user=nij86aIAAAAJ) | UniCordoba | 3 | 25 | 8 | 
+30 | [Germán Chaparro Molano](https://scholar.google.com/citations?user=FHzXPgoAAAAJ&hl=en) | UdeA | 3 | 25 | 10 | 
+31 | [Julian Rodriguez-Ferreira](https://scholar.google.com/citations?user=gy2sAsIAAAAJ&hl=en&oi=ao) | UIS | 3 | 13 | 5 |
+32 | [Oscar Alberto Restrepo Gaitan](https://scholar.google.com/citations?user=ecKvoBgAAAAJ&hl=en) | ECCI | 2 | 14 | 9 | 
+33 | [Mario-Armando Higuera-Garzón](https://scholar.google.com/citations?user=goHAHhMAAAAJ&hl=en) | OAN | 2 | 12 | 23 |
 34 | [Juan Manuel Tejeiro Sarmiento](https://scholar.google.com/citations?hl=en&user=hGwadTAAAAAJ) | OAN | 1 | 6 | 11 |
-35 | [Jose Robel Arenas Salazar](https://scholar.google.com/citations?hl=en&user=IEVLREYAAAAJ) | OAN | 0 | 0 | 0 |
+35 | [Jose Robel Arenas Salazar](https://scholar.google.com/citations?hl=en&user=IEVLREYAAAAJ) | OAN | 1 | 1 | 1 |
 36 | [Guillermo Leon Franco Alzate](https://scholar.google.com/citations?hl=en&user=5VSFp1sAAAAJ) | OAN | 0 | 0 | 0 |
 
