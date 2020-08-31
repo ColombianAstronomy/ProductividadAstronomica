@@ -34,7 +34,7 @@ La búsqueda por institución también utiliza el AffiliationID https://github.c
 40 Resultados 
 
 [OAN](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=((database%3A%22astronomy%22)%20NOT%20database%3A%22physics%22)&fq_property=(property%3A%22refereed%22)&q=(aff%3A%22Colombia%22%20AND%20aff%3A%22Observatorio%20Astron%C3%B3mico%20Nacional%22%20)%20&sort=date%20desc%2C%20bibcode%20desc&p_=0)  
-25 Resultados
+28 Resultados
 
 [Universidad de Medellin](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=NOT&filter_property_fq_property=*%3A*&filter_property_fq_property=property%3A%22notrefereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=(*%3A*%20NOT%20database%3A%22physics%22%20NOT%20database%3A%22general%22)&fq_property=(*%3A*%20NOT%20property%3A%22notrefereed%22)&q=(aff%3A%22Colombia%22%20AND%20aff%3A%22Universidad%20de%20Medellin%22)%20&sort=date%20desc%2C%20bibcode%20desc&p_=0)  
 11 Resultados
