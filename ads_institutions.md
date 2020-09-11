@@ -1,4 +1,4 @@
-Resultados de búsquedas ADS de artículos (refereed) que se encuentren exclusivamente en lo que ADS clasifica como Astronomía.
+Resultados de búsquedas ADS de artículos. El filtro es include Astronomy + exclude Physics + include Refereed.
 La búsqueda por institución también utiliza el AffiliationID https://github.com/csgrant00/CanonicalAffiliations/blob/master/parent_child.tsv
 
 # Toda Colombia
