@@ -14,11 +14,11 @@ ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones | PhD Ye
 10 | [Juan Carlos Muñoz Cuartas](https://scholar.google.com/citations?user=tQkmHH8AAAAJ&hl=en) | UdeA | 7 | 301 | 10 | | |
 11 | [Eduard Larrañaga](https://scholar.google.com/citations?hl=en&user=HyknmA8AAAAJ) | OAN | 7 | 134 | 17 |  | |
 12 | [José Alejandro García Varela](https://scholar.google.com/citations?user=iA0H5dgAAAAJ&hl=en) | Uniandes | 7 | 109 | 18 | | |
-13 | [CESAR A. VALENZUELA-TOLEDO](https://scholar.google.com/citations?user=J89OrSkAAAAJ&hl=en)| Univalle | 6 | 113 | 13 | | |
-14 | [PABLO CUARTAS RESTREPO](https://scholar.google.com/citations?user=c4zrU20AAAAJ&hl=en) | UdeA | 6 | 102 | 8 | | |
-15 | [Beatriz Eugenia Sabogal Martínez](https://scholar.google.com/citations?user=T-0RjQYAAAAJ&hl=en) | Uniandes | 6 | 85 | 18 | | |
-16 | [Giovanni Pinzón](https://scholar.google.com/citations?user=F25UKOkAAAAJ&hl=en)| OAN | 5 | 595 | 11 | | |
-17 | [Camilo Delgado-Correal](https://scholar.google.com/citations?user=HXHGks0AAAAJ) | UDistrital | 5 | 212 | 5 | | |
+13 | [Camilo Delgado-Correal](https://scholar.google.com/citations?user=HXHGks0AAAAJ) | UDistrital | 6 | 260 | 5 | | |
+14 | [CESAR A. VALENZUELA-TOLEDO](https://scholar.google.com/citations?user=J89OrSkAAAAJ&hl=en)| Univalle | 6 | 113 | 13 | | |
+15 | [PABLO CUARTAS RESTREPO](https://scholar.google.com/citations?user=c4zrU20AAAAJ&hl=en) | UdeA | 6 | 102 | 8 | | |
+16 | [Beatriz Eugenia Sabogal Martínez](https://scholar.google.com/citations?user=T-0RjQYAAAAJ&hl=en) | Uniandes | 6 | 85 | 18 | | |
+17 | [Giovanni Pinzón](https://scholar.google.com/citations?user=F25UKOkAAAAJ&hl=en)| OAN | 5 | 595 | 11 | | |
 18 | [Rigoberto Angel Casas Miranda](https://scholar.google.com/citations?user=i9vdtq0AAAAJ&hl=en) | UNAL | 5 | 103 | 18 | | |
 19 | [Jose Gregorio Portilla Barbosa](https://scholar.google.com/citations?hl=en&user=tDx7hEMAAAAJ) | OAN | 5 | 56 | 14 | | |
 20 | [Leonardo CastaÑeda Colorado](https://scholar.google.com/citations?hl=en&user=yJNS9DIAAAAJ) | OAN | 4 | 108 | 16 |  | |
