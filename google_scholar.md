@@ -3,8 +3,8 @@ Toma en cuenta solamente citaciones de los últimos 5 años.
 ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones | PhD Year| PhD Country |
 --- | ------ | ---------- | -------- | ---------- | ----------| --- | --- | 
 1 | [Luis A Núñez](https://scholar.google.com/citations?user=2Q5_QxkAAAAJ&hl=en) | UIS | 23 | 4567 | 30 |  1989 | VEN |
-2 | [José David Sanabria-Gómez](https://scholar.google.com/citations?user=Tclray4AAAAJ&hl=en) | UIS | 16 | 1273| 20 | 2001 | MEX |
-3 | [Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 16 | 586 | 14 | 2008 | ESP |
+2 | [José David Sanabria-Gómez](https://scholar.google.com/citations?user=Tclray4AAAAJ&hl=en) | UIS | 15 | 1280| 20 | 2001 | MEX |
+3 | [Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 15 | 586 | 14 | 2008 | ESP |
 4 | [Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ) | Uniandes | 13 | 1005 | 13 | 2007 | FRA |
 5 | [Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 12 | 577 | 11 |  2011 | NED |
 6 | [Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 12 | 335 | 11 | 2013 | MEX |
@@ -12,8 +12,8 @@ ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones | PhD Ye
 8 | [Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 9 | 216 | 21 | 1998 | BRA |
 9 | [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 8 | 243 | 43 | 1976 | USA |
 10 | [Juan Carlos Muñoz Cuartas](https://scholar.google.com/citations?user=tQkmHH8AAAAJ&hl=en) | UdeA | 7 | 288 | 11 | 2011 | GER |
-11 | [Camilo Delgado-Correal](https://scholar.google.com/citations?user=HXHGks0AAAAJ) | UDistrital | 6 | 289 | 7 | | |
-12 | [José Alejandro García Varela](https://scholar.google.com/citations?user=iA0H5dgAAAAJ&hl=en) | Uniandes | 6 | 116 | 19 | | |
+11 | [José Alejandro García Varela](https://scholar.google.com/citations?user=iA0H5dgAAAAJ&hl=en) | Uniandes | 7 | 121 | 19 | | |
+12 | [Camilo Delgado-Correal](https://scholar.google.com/citations?user=HXHGks0AAAAJ) | UDistrital | 6 | 289 | 7 | | |
 13 | [Eduard Larrañaga](https://scholar.google.com/citations?hl=en&user=HyknmA8AAAAJ) | OAN | 6 | 111 | 18 |  | |
 14 | [PABLO CUARTAS RESTREPO](https://scholar.google.com/citations?user=c4zrU20AAAAJ&hl=en) | UdeA | 6 | 110 | 10 | | |
 15 | [Rigoberto Angel Casas Miranda](https://scholar.google.com/citations?user=i9vdtq0AAAAJ&hl=en) | UNAL | 6 | 104 | 19 | | |
