@@ -13,12 +13,12 @@ ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones | PhD Ye
 9 | [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 8 | 244 | 43 | 1976 | USA |
 10 | [Juan Carlos Muñoz Cuartas](https://scholar.google.com/citations?user=tQkmHH8AAAAJ&hl=en) | UdeA | 8 | 299 | 11 | 2011 | GER |
 11 | [José Alejandro García Varela](https://scholar.google.com/citations?user=iA0H5dgAAAAJ&hl=en) | Uniandes | 7 | 126 | 19 | | |
-12 | [Camilo Delgado-Correal](https://scholar.google.com/citations?user=HXHGks0AAAAJ) | UDistrital | 6 | 319 | 7 | | |
-13 | [Hernan Enrique Garrido Vertel](https://scholar.google.com/citations?user=nij86aIAAAAJ) | UniCordoba | 6 | 147 | 9 |  | |
-14 | [Eduard Larrañaga](https://scholar.google.com/citations?hl=en&user=HyknmA8AAAAJ) | OAN | 6 | 113 | 18 |  | |
-15 | [PABLO CUARTAS RESTREPO](https://scholar.google.com/citations?user=c4zrU20AAAAJ&hl=en) | UdeA | 6 | 111 | 10 | | |
-16 | [Rigoberto Angel Casas Miranda](https://scholar.google.com/citations?user=i9vdtq0AAAAJ&hl=en) | UNAL | 6 | 111 | 19 | | |
-17 | [Beatriz Eugenia Sabogal Martínez](https://scholar.google.com/citations?user=T-0RjQYAAAAJ&hl=en) | Uniandes | 6 | 109 | 19 | | |
+12 | [Rigoberto Angel Casas Miranda](https://scholar.google.com/citations?user=i9vdtq0AAAAJ&hl=en) | UNAL | 7 | 116 | 19 | | |
+13 | [Beatriz Eugenia Sabogal Martínez](https://scholar.google.com/citations?user=T-0RjQYAAAAJ&hl=en) | Uniandes | 7 | 110 | 19 | | |
+14 | [Camilo Delgado-Correal](https://scholar.google.com/citations?user=HXHGks0AAAAJ) | UDistrital | 6 | 319 | 7 | | |
+15 | [Hernan Enrique Garrido Vertel](https://scholar.google.com/citations?user=nij86aIAAAAJ) | UniCordoba | 6 | 147 | 9 |  | |
+16 | [Eduard Larrañaga](https://scholar.google.com/citations?hl=en&user=HyknmA8AAAAJ) | OAN | 6 | 113 | 18 |  | |
+17 | [PABLO CUARTAS RESTREPO](https://scholar.google.com/citations?user=c4zrU20AAAAJ&hl=en) | UdeA | 6 | 111 | 10 | | |
 18 | [Giovanni Pinzón](https://scholar.google.com/citations?user=F25UKOkAAAAJ&hl=en)| OAN | 5 | 119 | 12 | | |
 19 | [Jose Gregorio Portilla Barbosa](https://scholar.google.com/citations?hl=en&user=tDx7hEMAAAAJ) | OAN | 5 | 72 | 15 | | |
 20 | [Leonardo CastaÑeda Colorado](https://scholar.google.com/citations?hl=en&user=yJNS9DIAAAAJ) | OAN | 4 | 122 | 17 |  | |
