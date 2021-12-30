@@ -13,11 +13,11 @@ ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones | PhD Ye
 9 | [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 8 | 261 | 43 | 1976 | USA |
 10 | [José Alejandro García Varela](https://scholar.google.com/citations?user=iA0H5dgAAAAJ&hl=en) | Uniandes | 8 | 141 | 19 | | |
 11 | [Juan Carlos Muñoz Cuartas](https://scholar.google.com/citations?user=tQkmHH8AAAAJ&hl=en) | UdeA | 7 | 315 | 11 | 2011 | GER |
-12 | [Eduard Larrañaga](https://scholar.google.com/citations?hl=en&user=HyknmA8AAAAJ) | OAN | 7 | 129 | 18 |  | |
-13 | [Rigoberto Angel Casas Miranda](https://scholar.google.com/citations?user=i9vdtq0AAAAJ&hl=en) | UNAL | 7 | 118 | 19 | | |
-14 | [Beatriz Eugenia Sabogal Martínez](https://scholar.google.com/citations?user=T-0RjQYAAAAJ&hl=en) | Uniandes | 7 | 119 | 19 | | |
-15 | [Camilo Delgado-Correal](https://scholar.google.com/citations?user=HXHGks0AAAAJ) | UDistrital | 6 | 362 | 7 | | |
-16 | [Giovanni Pinzón](https://scholar.google.com/citations?user=F25UKOkAAAAJ&hl=en)| OAN | 6 | 141 | 12 | | |
+12 | [Rigoberto Angel Casas Miranda](https://scholar.google.com/citations?user=i9vdtq0AAAAJ&hl=en) | UNAL | 7 | 118 | 19 | | |
+13 | [Beatriz Eugenia Sabogal Martínez](https://scholar.google.com/citations?user=T-0RjQYAAAAJ&hl=en) | Uniandes | 7 | 119 | 19 | | |
+14 | [Camilo Delgado-Correal](https://scholar.google.com/citations?user=HXHGks0AAAAJ) | UDistrital | 6 | 362 | 7 | | |
+15 | [Giovanni Pinzón](https://scholar.google.com/citations?user=F25UKOkAAAAJ&hl=en)| OAN | 6 | 141 | 12 | | |
+16 | [Eduard Larrañaga](https://scholar.google.com/citations?hl=en&user=HyknmA8AAAAJ) | OAN | 6 | 130 | 18 |  | |
 17 | [PABLO CUARTAS RESTREPO](https://scholar.google.com/citations?user=c4zrU20AAAAJ&hl=en) | UdeA | 6 | 123 | 10 | | |
 18 | [Jose Gregorio Portilla Barbosa](https://scholar.google.com/citations?hl=en&user=tDx7hEMAAAAJ) | OAN | 6 | 93 | 15 | | |
 19 | [Leonardo CastaÑeda Colorado](https://scholar.google.com/citations?hl=en&user=yJNS9DIAAAAJ) | OAN | 4 | 137 | 17 |  | |
