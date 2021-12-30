@@ -2,13 +2,13 @@ Toma en cuenta solamente citaciones de los últimos 5 años.
 
 ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones | PhD Year| PhD Country |
 --- | ------ | ---------- | -------- | ---------- | ----------| --- | --- | 
-1 | [Luis A Núñez](https://scholar.google.com/citations?user=2Q5_QxkAAAAJ&hl=en) | UIS | 27 | 5355 | 30 |  1989 | VEN |
+1 | [Luis A Núñez](https://scholar.google.com/citations?user=2Q5_QxkAAAAJ&hl=en) | UIS | 28 | 5355 | 30 |  1989 | VEN |
 2 | [José David Sanabria-Gómez](https://scholar.google.com/citations?user=Tclray4AAAAJ&hl=en) | UIS | 19 | 1645 | 20 | 2001 | MEX |
-3 | [Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 16 | 685 | 14 | 2008 | ESP |
+3 | [Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 17 | 685 | 14 | 2008 | ESP |
 4 | [Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ) | Uniandes | 14 | 1332 | 13 | 2007 | FRA |
 5 | [Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 13 | 395 | 11 | 2013 | MEX |
 6 | [Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 12 | 646 | 11 |  2011 | NED |
-7 | [Jorge Zuluaga](https://scholar.google.com/citations?user=qpGVqNwAAAAJ&hl=en&oi=ao) | UdeA | 11 | 410 | 21 | 2005 | COL |
+7 | [Jorge Zuluaga](https://scholar.google.com/citations?user=qpGVqNwAAAAJ&hl=en&oi=ao) | UdeA | 12 | 410 | 21 | 2005 | COL |
 8 | [Guillermo A González](https://scholar.google.com/citations?user=pvM7yGcAAAAJ&hl=en) | UIS | 9 | 238 | 21 | 1998 | BRA |
 9 | [Ignacio Ferrin](https://scholar.google.com/citations?user=bGBCFskAAAAJ&hl=en) | UdeA | 8 | 261 | 43 | 1976 | USA |
 10 | [José Alejandro García Varela](https://scholar.google.com/citations?user=iA0H5dgAAAAJ&hl=en) | Uniandes | 8 | 141 | 19 | | |
