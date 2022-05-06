@@ -1,4 +1,5 @@
-Links al ADS de las publicaciones arbitradas que tienen datos tomados en Colombia
+Links al ADS de las publicaciones arbitradas (con al menos una citacion) que usan datos astronomicos tomados en Colombia.
+
 
 The GEM project: An international collaboration to survey galactic radiation emission. 
 https://ui.adsabs.harvard.edu/abs/1996Ap%26SS.240..225T/abstract
