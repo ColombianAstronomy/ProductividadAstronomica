@@ -1,6 +1,5 @@
 Links al ADS de las publicaciones arbitradas que usan datos astronomicos tomados en Colombia.
 
-Con citas:
 
 * The GEM project: An international collaboration to survey galactic radiation emission. (Afiliacion Observatorio Astronómico, Universidad Nacional de Colombia and Centro Internacional de Física. Datos tomados en Villa de Leyva.). https://ui.adsabs.harvard.edu/abs/1996Ap%26SS.240..225T/abstract
 
