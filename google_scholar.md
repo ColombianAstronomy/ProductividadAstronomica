@@ -28,9 +28,10 @@ ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones | PhD Ye
 24 | [Mario-Armando Higuera-Garzón](https://scholar.google.com/citations?user=goHAHhMAAAAJ&hl=en) | OAN | 3 | 26 | 24 | | |
 25 | [Germán Chaparro Molano](https://scholar.google.com/citations?user=FHzXPgoAAAAJ&hl=en) | UdeA | 3 | 23 | 11 |  | |
 26 | [Julian Rodriguez-Ferreira](https://scholar.google.com/citations?user=gy2sAsIAAAAJ&hl=en&oi=ao) | UIS | 3 | 20 | 6 | | |
-27 | [Oscar Alberto Restrepo Gaitan](https://scholar.google.com/citations?user=ecKvoBgAAAAJ&hl=en) | ECCI | 2 | 18 | 10 | | |
-28 | [Juan Manuel Tejeiro Sarmiento](https://scholar.google.com/citations?hl=en&user=hGwadTAAAAAJ) | OAN | 1 | 6 | 12 | | |
-29 | [Jose Robel Arenas Salazar](https://scholar.google.com/citations?hl=en&user=IEVLREYAAAAJ) | OAN | 1 | 1 | 2 | | |
-30 | [Benjamin Calvo Mozo](https://scholar.google.com/citations?hl=en&user=xBhWLdQAAAAJ) | OAN | 1 | 1 | 8 | | |
-31 | [Guillermo Leon Franco Alzate](https://scholar.google.com/citations?hl=en&user=5VSFp1sAAAAJ) | OAN | 0 | 0 | 0 | -1 | |
+27 | [Lauren Flor Torres](https://scholar.google.com/citations?user=tOYfRkkAAAAJ&hl=en&oi=ao)| UdeA | 2 | 40 | 7 | | | 
+28 | [Oscar Alberto Restrepo Gaitan](https://scholar.google.com/citations?user=ecKvoBgAAAAJ&hl=en) | ECCI | 2 | 18 | 10 | | |
+29 | [Juan Manuel Tejeiro Sarmiento](https://scholar.google.com/citations?hl=en&user=hGwadTAAAAAJ) | OAN | 1 | 6 | 12 | | |
+30 | [Jose Robel Arenas Salazar](https://scholar.google.com/citations?hl=en&user=IEVLREYAAAAJ) | OAN | 1 | 1 | 2 | | |
+31 | [Benjamin Calvo Mozo](https://scholar.google.com/citations?hl=en&user=xBhWLdQAAAAJ) | OAN | 1 | 1 | 8 | | |
+32 | [Guillermo Leon Franco Alzate](https://scholar.google.com/citations?hl=en&user=5VSFp1sAAAAJ) | OAN | 0 | 0 | 0 | -1 | |
 
