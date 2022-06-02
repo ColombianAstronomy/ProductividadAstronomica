@@ -4,7 +4,7 @@ ID | Nombre | Institucion | H-index | Citaciones | Años con Citaciones | PhD Ye
 --- | ------ | ---------- | -------- | ---------- | ----------| --- | --- | 
 1 | [Luis A Núñez](https://scholar.google.com/citations?user=2Q5_QxkAAAAJ&hl=en) | UIS | 27 | 5949 | 30 |  1989 | VEN |
 2 | [José David Sanabria-Gómez](https://scholar.google.com/citations?user=Tclray4AAAAJ&hl=en) | UIS | 18 | 1887 | 20 | 2001 | MEX |
-3 | [Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ) | Uniandes | 15 | 1247 | 14 | 2007 | FRA |
+3 | [Jaime E. Forero-Romero](https://scholar.google.com/citations?user=TLTK6WgAAAAJ) | Uniandes | 16 | 1247 | 14 | 2007 | FRA |
 4 | [Santiago Vargas Domínguez](https://scholar.google.com/citations?hl=en&user=9DDaTaAAAAAJ) | OAN | 15 | 622 | 15 | 2008 | ESP |
 5 | [Esteban Silva-Villa](https://scholar.google.com/citations?user=S8-YLHaAJLMC&hl=en) | UdeA | 12 | 558 | 12 |  2011 | NED |
 6 | [Fabio Duvan Lora Clavijo](https://scholar.google.com/citations?hl=en&user=bV-me9AAAAAJ&view_op=list_works)| UIS | 12 | 379 | 11 | 2013 | MEX |
