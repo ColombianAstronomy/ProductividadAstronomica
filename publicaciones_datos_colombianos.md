@@ -1,5 +1,6 @@
 Links al ADS de las publicaciones arbitradas que usan datos astronomicos tomados en Colombia.
 
+Con al menos una citacion
 
 * The GEM project: An international collaboration to survey galactic radiation emission. (Afiliacion Observatorio Astronómico, Universidad Nacional de Colombia and Centro Internacional de Física. Datos tomados en Villa de Leyva.). https://ui.adsabs.harvard.edu/abs/1996Ap%26SS.240..225T/abstract
 
@@ -12,3 +13,5 @@ Links al ADS de las publicaciones arbitradas que usan datos astronomicos tomados
 * Location, orbit, and energy of a meteoroid impacting the Moon during the lunar eclipse of 2019 January 21 (Afiliacion Solar, Earth and Planetary Physics - SEAP, Institute of Physics, University of Antioquia, Calle 70 No. 52-21, Medellín, Colombia; Sociedad Antioqueña de Astronomía, CAMO & Orion Groups, Medellín 050010, Colombia, Sociedad Antioqueña de Astronomía, CAMO & Orion Groups, Medellín 050010, Colombia, Observatorio la Loma, Vía Concepción-San Vicente Ferrer, 054010 Colombia. Datos tomados en San Vicente Ferrer). https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1432Z/abstract 
 
 * Comparative Analysis of Sky Quality and Meteorological Variables During the Total Lunar Eclipse on 14-15 April 2014 and their Effect on Qualitative Measurements of the Bortle Scale (Afiliaciones CINDES Research Group, Department of Engineering, Universidad Libre. Research Group CENIT, Universidad Nacional de Colombia. Olympiades Office, Astronomy and Astrophysics, Universidad Antonio Nariño., Universidad Nacional de Colombia - Sede Bogotã - Facultad de Ciencias - Observatorio Astronómico Nacional. Datos tomados en La Tatacoa.) https://ui.adsabs.harvard.edu/abs/2021RMxAA..57...57G/abstract 
+
+* Space Weather Monitoring from Observatorio Astronómico of the Universidad Tecnológica de Pereira. (Universidad Tecnológica de Pereira, Pereira, Colombia) https://ui.adsabs.harvard.edu/abs/2019SunGe..14..185G/abstract
