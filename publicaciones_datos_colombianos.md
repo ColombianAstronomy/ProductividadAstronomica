@@ -12,7 +12,10 @@ Con al menos una citacion
 
 * Location, orbit, and energy of a meteoroid impacting the Moon during the lunar eclipse of 2019 January 21 (Afiliacion Solar, Earth and Planetary Physics - SEAP, Institute of Physics, University of Antioquia, Calle 70 No. 52-21, Medellín, Colombia; Sociedad Antioqueña de Astronomía, CAMO & Orion Groups, Medellín 050010, Colombia, Sociedad Antioqueña de Astronomía, CAMO & Orion Groups, Medellín 050010, Colombia, Observatorio la Loma, Vía Concepción-San Vicente Ferrer, 054010 Colombia. Datos tomados en San Vicente Ferrer). https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1432Z/abstract 
 
+Solamente una auto-cita
+
 * Space Weather Monitoring from Observatorio Astronómico of the Universidad Tecnológica de Pereira. (Universidad Tecnológica de Pereira, Pereira, Colombia. Datos tomados en Pereira) https://ui.adsabs.harvard.edu/abs/2019SunGe..14..185G/abstract
+
 
 Sin citaciones 
 
