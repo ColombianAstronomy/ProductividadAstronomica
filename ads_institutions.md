@@ -1,6 +1,9 @@
 Resultados de búsquedas ADS de artículos. El filtro es "limit to Astronomy" + "limit to Refereed" + "exclude Physics" 
 La búsqueda por institución también utiliza el AffiliationID https://github.com/csgrant00/CanonicalAffiliations/blob/master/parent_child.tsv
 
+query alternativo 
+aff:"Colombia" and NOT aff:"British Colombia" and NOT aff:"Av. Gran Colombia" and collection:astronomy and NOT collection:physics and property:refereed
+
 # Colombia
 
 Query | H-index | Papers |
