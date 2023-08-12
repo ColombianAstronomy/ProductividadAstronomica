@@ -6,7 +6,10 @@
  [Alejandro Garcia-Varela](https://ui.adsabs.harvard.edu/search/q=author%3A%22garcia-varela%22%20doctype%3Aarticle%20property%3Arefereed%20collection%3A(astronomy%20NOT%20physics)%20pubdate%3A%5B2019%20TO%202023%5D&sort=date%20desc%2C%20bibcode%20desc&p_=0) | Uniandes | 1 | 2 | 1 |
 | [Benjamin Oostra](https://ui.adsabs.harvard.edu/search/q=author%3A%22Oostra%22%20doctype%3Aarticle%20property%3Arefereed%20collection%3A(astronomy%20NOT%20physics)%20pubdate%3A%5B2019%20TO%202023%5D&sort=date%20desc%2C%20bibcode%20desc&p_=0) | Uniandes | 0 | 2 | 0 |
 | [Luis Nuñez](https://ui.adsabs.harvard.edu/search/q=author%3A%22nu%C3%B1ez%2C%20luis%22%20doctype%3Aarticle%20property%3Arefereed%20collection%3A(astronomy%20NOT%20physics)%20pubdate%3A%5B2019%20TO%202023%5D&sort=date%20desc%2C%20bibcode%20desc&p_=0) | UIS | 9 | 14 | 266 |
+| [Jose David Sanabria-Gomez](https://ui.adsabs.harvard.edu/search/q=author%3A%22sanabria-gomez%22%20doctype%3Aarticle%20property%3Arefereed%20collection%3A(astronomy%20NOT%20physics)%20pubdate%3A%5B2019%20TO%202023%5D&sort=date%20desc%2C%20bibcode%20desc&p_=0) | UIS | 9 | 13 | 258 |
 | [Fabio Lora-Clavijo](https://ui.adsabs.harvard.edu/search/q=author%3A%22lora-clavijo%22%20doctype%3Aarticle%20property%3Arefereed%20collection%3A(astronomy%20NOT%20physics)%20pubdate%3A%5B2019%20TO%202023%5D&sort=date%20desc%2C%20bibcode%20desc&p_=0) | UIS | 3 | 6 | 28 |
+| [Yeinzon Rodriguez](https://ui.adsabs.harvard.edu/search/q=author%3A%22Rodriguez%2C%20Yeinzon%22%20doctype%3Aarticle%20property%3Arefereed%20collection%3A(astronomy%20NOT%20physics)%20pubdate%3A%5B2019%20TO%202023%5D&sort=date%20desc%2C%20bibcode%20desc&p_=0) | UIS | 2 | 2 | 27 |
+| [Guillermo Gonzalez](https://ui.adsabs.harvard.edu/search/q=author%3A%22Gonzalez%2C%20Guillermo%20A.%22%20%20affil%3ASantander%20doctype%3Aarticle%20property%3Arefereed%20collection%3A(astronomy%20NOT%20physics)%20pubdate%3A%5B2019%20TO%202023%5D%20&sort=date%20desc%2C%20bibcode%20desc&p_=0) | UIS | 0 | 0 | 0 |
 
 
 
