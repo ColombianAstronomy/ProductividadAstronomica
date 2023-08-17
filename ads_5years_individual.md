@@ -30,6 +30,7 @@
  [Alejandro Garcia-Varela](https://ui.adsabs.harvard.edu/search/q=author%3A%22garcia-varela%22%20doctype%3Aarticle%20property%3Arefereed%20collection%3A(astronomy%20NOT%20physics)%20pubdate%3A%5B2019%20TO%202023%5D&sort=date%20desc%2C%20bibcode%20desc&p_=0) | Uniandes | 1 | 2 | 1 |
 | [Benjamin Oostra](https://ui.adsabs.harvard.edu/search/q=author%3A%22Oostra%22%20doctype%3Aarticle%20property%3Arefereed%20collection%3A(astronomy%20NOT%20physics)%20pubdate%3A%5B2019%20TO%202023%5D&sort=date%20desc%2C%20bibcode%20desc&p_=0) | Uniandes | 0 | 2 | 0 |
 | [David Sierra-Porta](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22sierra-porta%22%20doctype%3Aarticle%20property%3Arefereed%20collection%3A(astronomy%20NOT%20physics)%20pubdate%3A%5B2019%20TO%202023%5D&sort=date%20desc%2C%20bibcode%20desc&p_=0) | UTB | 2 | 4 | 85 |
+| [Fredy Dubeibe](https://ui.adsabs.harvard.edu/search/q=author%3A%22Dubeibe%22%20doctype%3Aarticle%20property%3Arefereed%20collection%3A(astronomy%20NOT%20physics)%20pubdate%3A%5B2019%20TO%202023%5D&sort=date%20desc%2C%20bibcode%20desc&p_=0) | UTB | 2 | 8 | 12 |
 
 
 
