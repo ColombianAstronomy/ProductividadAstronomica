@@ -17,8 +17,11 @@ Solamente una auto-cita
 * Space Weather Monitoring from Observatorio Astronómico of the Universidad Tecnológica de Pereira. (Universidad Tecnológica de Pereira, Pereira, Colombia. Datos tomados en Pereira) https://ui.adsabs.harvard.edu/abs/2019SunGe..14..185G/abstract
 
 
+
 Sin citaciones 
 
-* Comparative Analysis of Sky Quality and Meteorological Variables During the Total Lunar Eclipse on 14-15 April 2014 and their Effect on Qualitative Measurements of the Bortle Scale (Afiliaciones CINDES Research Group, Department of Engineering, Universidad Libre. Research Group CENIT, Universidad Nacional de Colombia. Olympiades Office, Astronomy and Astrophysics, Universidad Antonio Nariño., Universidad Nacional de Colombia - Sede Bogotã - Facultad de Ciencias - Observatorio Astronómico Nacional. Datos tomados en La Tatacoa.) https://ui.adsabs.harvard.edu/abs/2021RMxAA..57...57G/abstract 
+* Comparative Analysis of Sky Quality and Meteorological Variables During the Total Lunar Eclipse on 14-15 April 2014 and their Effect on Qualitative Measurements of the Bortle Scale (Afiliaciones CINDES Research Group, Department of Engineering, Universidad Libre. Research Group CENIT, Universidad Nacional de Colombia. Olympiades Office, Astronomy and Astrophysics, Universidad Antonio Nariño., Universidad Nacional de Colombia - Sede Bogotã - Facultad de Ciencias - Observatorio Astronómico Nacional. Datos tomados en La Tatacoa.) https://ui.adsabs.harvard.edu/abs/2021RMxAA..57...57G/abstract
+
+*  Methodology for the observation of radio sources using Ku‑band compact radio telescopes "We tested our methodology with the Ku-band radio telescope of the Observatorio Astronómico of the Universidad Tecnológica de Pereira (OAUTP)". https://ui.adsabs.harvard.edu/abs/2022AN....34310025G/abstract
 
 
