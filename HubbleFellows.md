@@ -2,7 +2,7 @@
 
 Nico Garavito   
 
-Einstein Fellow @Maryland, 2026. 
+Einstein Fellow @Maryland, 2026.  
 Future Faculty Fellow @Arizona, 2025  
 Postdoc @Flatiron, 2021-2024  
 PhD Astronomia-Astrofisica @Arizona, 2021  
