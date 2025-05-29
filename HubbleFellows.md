@@ -1,13 +1,13 @@
 # 2025  
 
-Nico Garavito  
+Nico Garavito   
 
-Einstein Fellow @Maryland, 2026
-Future Faculty Fellow @Arizona, 2025
-Postdoc @Flatiron, 2021-2024
-PhD Astronomia-Astrofisica @Arizona, 2021
-Maestria Fisica @Uniandes, 2015
-Pregrado Fisica @UNAL, 2013
+Einstein Fellow @Maryland, 2026. 
+Future Faculty Fellow @Arizona, 2025  
+Postdoc @Flatiron, 2021-2024  
+PhD Astronomia-Astrofisica @Arizona, 2021  
+Maestria Fisica @Uniandes, 2015  
+Pregrado Fisica @UNAL, 2013  
 
 # 2023
 
